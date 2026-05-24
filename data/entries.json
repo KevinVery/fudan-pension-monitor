@@ -3,10 +3,10 @@
     "site_name": "全球养老金政策动态追踪",
     "site_subtitle": "Global Pension Policy Monitor",
     "description": "跟踪全球16个主要经济体的养老金政策、改革和投资动态，提供权威、及时的政策情报。",
-    "last_updated": "2026-05-16",
+    "last_updated": "2026-05-24",
     "report_period_start": "2026-04-01",
-    "report_period_end": "2026-05-16",
-    "total_entries": 53,
+    "report_period_end": "2026-05-23",
+    "total_entries": 61,
     "data_version": "4.0-may16-update",
     "countries_covered": 16,
     "version": "1.0"
@@ -594,6 +594,94 @@
       "source": "印度经济时报 / 商业标准报 / PFRDA / AIRF",
       "url": "https://pfrda.org.in/media/press-releases",
       "id": 53
+    },
+    {
+      "id": 54,
+      "country": "德国",
+      "title": "专家委员会泄露报告建议\"70岁退休\"：养老金水平从48%降至46%",
+      "content": "德国联邦政府任命的13人养老金专家委员会于2026年5月21日泄露了养老金改革建议报告核心内容，正式报告将于6月30日提交。关键建议包括：自2040年代起分阶段将法定退休年龄从67岁逐步提高至70岁（2040年代初68岁、2050年代初69岁、2060年代初70岁），适用于1990年后出生人群；废除现行\"养老金水平保障线\"（Haltelinie），将养老金水平从48%降至46%；通过三大支柱混合模式维持总体退休收入水平。关于公务员（Beamte）是否纳入法定养老金体系，委员会未达成多数支持。默茨总理（CDU）表示将参考瑞典和荷兰模式推行重大改革；劳工部长贝尔·巴斯（SPD）目前排除70岁退休的可能性；经济\"五贤人\"成员韦丁提出折中方案——按预期寿命每十年仅增加0.5岁，到2091年才达到70岁。当前缴费率18.6%，2026年7月1日养老金将上调4.24%。",
+      "date": "2026-05-21",
+      "category": "政策改革",
+      "importance": 5,
+      "source": "德国广播电台(Deutschlandfunk) / Bild / PNP / DRV",
+      "url": "https://www.deutschlandfunk.de/bild-expertenkommission-empfiehlt-neue-regelung-fuer-rentenniveau-und-renteneintrittsalter-100.html"
+    },
+    {
+      "id": 55,
+      "country": "荷兰",
+      "title": "工会发出14天罢工最后通牒至5月30日，雇主组织公开反对养老金改革",
+      "content": "荷兰三大工会FNV、CNV和VCP于2026年5月19日向少数派内阁（D66、VVD、CDA）发出新的14天最后通牒：须在5月30日前彻底撤回针对AOW国家养老金、WW失业金和WIA残疾金的所有削减方案，否则将发动\"全部行动手段\"包括全国性罢工。全国公共交通大罢工已定于6月24日举行。社会事务大臣Hans Vijlbrief承诺在5月30日前提交修订后的福利改革方案。5月22日，荷兰最大雇主组织VNO-NCW新任主席Coen van Oostrom公开反对政府计划，声明\"整个AOW讨论必须搁置、锁起来并扔掉钥匙\"。此前，加快AOW退休年龄上调法案已于4月在参议院被压倒性否决，内阁转向探索\"财政化AOW\"替代方案，预计到2040年每年可增收50亿欧元。首批约950万劳动者的养老金基金已完成向新DC体系的转换。",
+      "date": "2026-05-19",
+      "category": "政策改革",
+      "importance": 5,
+      "source": "DutchNews.nl / NL Times / NRC商报 / Rijksoverheid",
+      "url": "https://www.dutchnews.nl/2026/05/employers-chief-says-no-to-pension-reform-social-security-cuts/"
+    },
+    {
+      "id": 56,
+      "country": "英国",
+      "title": "TPR发布人工智能治理计划，精算折现率调整削减公职人员养老金一次性提取额",
+      "content": "英国养老金监管局（TPR）于2026年5月22日发布《人工智能计划》（AI Plan），就养老金受托人如何安全、负责任地使用AI提出正式期望，警示AI驱动的养老金欺诈风险上升，确认将于2026年下半年发布正式指引文件。同日，英国财政部将SCAPE精算折现率从CPI+2.4%调整为CPI+2.0%立即生效，导致1987年《警察养老金计划》等旧制公职人员养老金的一次性折算提取额（commutation lump sum）减少约5%，类似影响预计扩散至消防员及其他旧制公共服务养老金计划。《养老金简报》5月刊概述了《养老金计划法2026》（4月29日获御准）的实施路径：2027年起PPF/FAS对1997年前服务期提供CPI挂钩指数化（上限2.5%），惠及256,000+名成员；取消PPF的1亿英镑最低征费门槛；将PPF/FAS数据纳入养老金仪表板（Pensions Dashboards）。",
+      "date": "2026-05-22",
+      "category": "法规更新",
+      "importance": 4,
+      "source": "英国养老金监管局(TPR) / Mayer Brown / Burges Salmon / Police Professional",
+      "url": "https://www.thepensionsregulator.gov.uk/en/media-hub/press-releases"
+    },
+    {
+      "id": 57,
+      "country": "韩国",
+      "title": "\"工作老人\"养老金削减门槛大幅上调：月收入519万韩元以下不受影响",
+      "content": "韩国雇佣劳动部与保健福祉部联合宣布，自2026年6月17日起，在职养老金领取者的收入门槛将从现行的\"A值\"（约319万韩元/月）大幅提高至519万韩元/月（A值+200万韩元扣除额）。该项改革将惠及约13.7万名此前因再就业收入超标而被削减国民年金的人员，其养老金将从6月起全额发放。该措施是2025年3月国会通过的国民年金改革方案（28年来首次重大改革）的配套实施细节：缴费率自2026年起从9%逐年上调至2033年的13%（每年+0.5个百分点）；收入替代率从41.5%提高至43%（40年缴费者65岁基准）；生育积分扩展至一孩家庭；兵役积分从6个月翻倍至12个月。",
+      "date": "2026-05-18",
+      "category": "政策调整",
+      "importance": 4,
+      "source": "FN News(韩国) / 韩国国民年金公团(NPS) / 雇佣劳动部(MOEL)",
+      "url": "https://en.fnnews.com/news/202605180722104222"
+    },
+    {
+      "id": 58,
+      "country": "印度",
+      "title": "第8届薪酬委员会JCM会议：最低养老金拟升至20,500卢比，旧养老金制度恢复近在咫尺",
+      "content": "第49届全国联合协商机制（JCM）会议于2026年5月19日在内阁秘书T.V. Somanathan主持下举行，就第8届薪酬委员会建议书中的养老金议题进行关键讨论。核心成果包括：最低养老金标准预计将从当前9,000卢比大幅提高至约20,500卢比（约合人民币1,780元）；支出秘书同意在一周内落实对2003年12月前空缺职位招募的中央政府雇员适用CCS（养老金）规则——实质等同于恢复旧养老金制度（OPS），被视为重大突破；全印NPS雇员联合会要求将\"最后领取基本工资+物价补贴的50%作为保证养老金\"纳入NPS框架；备忘录提交截止日期延长至2026年5月31日。另一方面，财政部金融服务司（DFS）于5月21日要求银行推动APY参保人向更高养老金档次转移——截至5月18日APY参保人数已突破9.10亿人，但多数集中在每月1,000卢比的最低档次。",
+      "date": "2026-05-19",
+      "category": "政策改革",
+      "importance": 4,
+      "source": "Times Now News / Angel One / PFRDA / DoPPW",
+      "url": "https://www.timesnownews.com/business-economy/economy/8th-pay-commission-update-check-major-demands-raised-by-nc-jcm-for-pensioners-article-154350368"
+    },
+    {
+      "id": 59,
+      "country": "IMF/EU",
+      "title": "IMF在欧盟财长会议上警告：退休年龄必须提高，否则公共债务将在2040年达GDP的130%",
+      "content": "国际货币基金组织（IMF）在2026年5月23日于布鲁塞尔举行的欧盟财长会议上发出严厉警告：如果欧盟各国不实施包括提高退休年龄在内的养老金改革和财政整顿，未受控制的公共债务可能在2040年前达到GDP的130%。IMF建议的核心措施包括：将法定退休年龄与预期寿命挂钩；推进养老金体系的财政可持续性改革；联合发行欧洲公共产品（防务、能源、创新）债券。该警告与OECD近期的系列国别经济调查形成呼应，均将延迟退休和养老金改革列为老龄化社会财政可持续性的核心政策工具。据OECD《养老金概览2025》，目前OECD国家男性平均正常退休年龄将从当前的64.7岁上升至新入职者的66.4岁，女性从63.9岁升至65.9岁，丹麦、爱沙尼亚、意大利、荷兰和瑞典已立法将退休年龄与预期寿命挂钩并达到70岁以上。",
+      "date": "2026-05-23",
+      "category": "政策改革",
+      "importance": 4,
+      "source": "IMF欧盟财长会议声明 / Yahoo Finance Singapore / OECD",
+      "url": "https://sg.finance.yahoo.com/news/eu-must-reform-consolidate-joint-092914914.html"
+    },
+    {
+      "id": 60,
+      "country": "韩国",
+      "title": "国民年金基金创纪录回报率18.82%，5月28日终审5年期战略资产配置方案",
+      "content": "韩国国民年金基金（NPS）于2026年5月22日披露，在KOSPI指数突破8,000点关口的强劲牛市推动下，2025年基金实现创纪录的18.82%年化回报率，基金资产总规模突破1,800万亿韩元（约1.2万亿美元）。然而专家警告不应过度乐观——国内股票实际配置已膨胀至约27%，远超当前14.9%的目标配置（弹性上限19.9%）。5月28日即将举行的国民年金基金运用委员会最终会议将确定2027-2031年中期战略资产配置方案，关键争议在于是否将国内股票目标权重上调约5个百分点至19.9%，从而将弹性上限扩至24.9%，以避免在市场上涨中被迫大规模减持。反对党国民力量党批评执政党将国民年金基金\"当作总统口袋里的钱运作\"。NPS理事长金成柱驳斥称，如果缴费率、回报率和政府支持持续改善，\"基金可以持续到21世纪末\"。",
+      "date": "2026-05-22",
+      "category": "投资动态",
+      "importance": 5,
+      "source": "韩国中央日报(Korea JoongAng Daily) / 朝鲜日报(Chosun Biz) / NPS基金运用本部",
+      "url": "https://koreajoongangdaily.joins.com/news/2026-05-22/business/economy/NPS-reports-record-gains-amid-stock-market-rally-but-experts-warn-against-excessive-optimism/2598962"
+    },
+    {
+      "id": 61,
+      "country": "英国",
+      "title": "养老金保护基金盈余2,585亿英镑，SPP呼吁就1,400亿英镑储备的未来开展公开咨询",
+      "content": "英国养老金保护基金（PPF）2026年5月发布的PPF 7800指数月度更新显示，英国设定受益型（DB）养老金计划合计盈余为2,585亿英镑，资金充足率为131.2%（总资产10,876亿英镑，总负债8,291亿英镑），5,050个DB计划中仅507个处于赤字状态。在此背景下，英国养老金专业人士协会（SPP）发布专题报告《从救生艇到遗产：1,400亿英镑PPF储备的未来走向？》（From Lifeboat to Legacy），呼吁政府就PPF巨额盈余的用途启动公开咨询。备选方案包括：提高成员补偿标准（如恢复完全指数化）、向征费缴纳雇主返还资金、设立公共DB整合平台、创建全民集体DC计划、用于提高全国退休收入充足性。PPF首席精算师Shalin Bhagwan指出，金边债券收益率在持续通胀压力和央行紧缩预期下走高，但DB计划整体资金状况依然强健。《养老金计划法2026》已于4月29日获御准，赋予PPF更大征费灵活性（可降至零）和更广的公共政策功能空间，2025/26年度征费已降至零。",
+      "date": "2026-05-22",
+      "category": "投资动态",
+      "importance": 4,
+      "source": "英国养老金保护基金(PPF) / SPP / Pensions Expert / IPE / Pensions Age",
+      "url": "https://www.ppf.co.uk/ppf-7800-index"
     }
   ]
 }
