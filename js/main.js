@@ -215,6 +215,11 @@ const App = {
             if (weekGroups[wk.key]) weekGroups[wk.key].entries.push(entry);
         });
 
+        // 每组内按日期倒序排列（离现在越近越靠前）
+        Object.keys(weekGroups).forEach(key => {
+            weekGroups[key].entries.sort((a, b) => b.date.localeCompare(a.date));
+        });
+
         // 倒序排列（最近一周在最前）
         const sortedKeys = Object.keys(weekGroups).sort().reverse();
 
