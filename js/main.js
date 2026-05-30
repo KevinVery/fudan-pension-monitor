@@ -24,7 +24,7 @@ const App = {
     // 初始化
     async init() {
         try {
-            const res = await fetch('data/entries.json?v=20260530b');
+            const res = await fetch('data/entries.json?v=20260530d');
             if (!res.ok) throw new Error(`HTTP ${res.status}`);
             this.data = await res.json();
             this.filteredEntries = [...this.data.entries];

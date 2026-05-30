@@ -5,8 +5,8 @@
     "description": "跟踪全球16个主要经济体的养老金政策、改革和投资动态，提供权威、及时的政策情报。",
     "last_updated": "2026-05-30",
     "report_period_start": "2025-12-20",
-    "report_period_end": "2026-05-30",
-    "total_entries": 348,
+    "report_period_end": "2026-05-21",
+    "total_entries": 340,
     "data_version": "5.0-word-files-update",
     "countries_covered": 16,
     "version": "2.0"
@@ -3751,94 +3751,6 @@
       "importance": 4,
       "source": "全球千大基金（Top1000funds.com）",
       "url": ""
-    },
-    {
-      "id": 341,
-      "country": "美国",
-      "title": "纽约州长签署Tier 6教师养老金改革法案：退休年龄从63岁降至58岁",
-      "content": "纽约州州长霍楚尔（Kathy Hochul）于2026年5月27日签署州预算案中的Tier 6养老金改革条款，将教师及教学助理的正常退休年龄从63岁降至58岁（须服务满30年）。法案于5月26日在州参众两院通过。总成本5.57亿美元（首年），系最初15亿美元版本的缩减版；纽约市承担份额1.233亿美元；其他公职人员缴费率下调至3%至5.75%区间；加班费计算上限从约2.2万美元提高至3万美元。此次改革系对2012年前州长科莫时期Tier 6条款的部分回调。",
-      "date": "2026-05-27",
-      "category": "政策改革",
-      "importance": 4,
-      "source": "Education Week / 纽约州议会及州长办公室",
-      "url": "https://www.edweek.org/policy-politics/new-york-teachers-win-lower-retirement-age-as-lawmakers-pass-pension-reforms/2026/05"
-    },
-    {
-      "id": 342,
-      "country": "意大利",
-      "title": "INPS发布第1808号通告：更新艰苦职业ISTAT分类编码，相关劳动者免于2027年起预期寿命上调退休年龄",
-      "content": "意大利国家社会保障局（INPS）于2026年5月29日发布第1808号通告（Messaggio n. 1808），与劳动和社会政策部协商后公布职业分类编码从CP2011向CP2021过渡的对应表。此举确保从事艰苦/繁重职业（lavori gravosi）的劳动者不因统计编码变更而丧失以下权益：提前退休（lavoratori precoci）资格；2027年起因预期寿命调整导致的退休年龄上调豁免（2027年+1个月至67岁1个月，2028年+3个月至67岁3个月）；APE Social（社会性提前退休津贴）资格。已提交的养老金申请将依据新编码对应表重新审核。",
-      "date": "2026-05-29",
-      "category": "政策调整",
-      "importance": 3,
-      "source": "INPS（意大利国家社会保障局）",
-      "url": "https://www.ilmattino.it/economia/news/pensioni_inps_aggiorna_codici_lavori_gravosi_chi_evitera_aumento_eta_uscita-9562444.html"
-    },
-    {
-      "id": 343,
-      "country": "意大利",
-      "title": "INPS发布第1790号通告：意大利-阿尔巴尼亚双边养老金申请自6月1日起由莱切专门中心受理",
-      "content": "INPS于2026年5月28日发布第1790号通告（Messaggio n. 1790），依据2025年7月1日生效的《意大利-阿尔巴尼亚社会保障双边协定》，自2026年6月1日起，由阿尔巴尼亚社会保障机构（ISSH）转交的新养老金申请将统一由INPS莱切省分局「国际制度给付专门处理中心——阿尔巴尼亚专门中心」受理；5月31日前收到的申请及已发放的养老金仍由佩鲁贾省分局管理。涉及养老金类型包括残疾养老金、老年养老金、工龄养老金、遗属养老金。",
-      "date": "2026-05-28",
-      "category": "政策调整",
-      "importance": 2,
-      "source": "INPS（意大利国家社会保障局）",
-      "url": "https://www.edotto.com/articolo/pensioni-italia-albania-dal-1-giugno-domande-al-polo-inps-di-lecce"
-    },
-    {
-      "id": 344,
-      "country": "OECD",
-      "title": "OECD发布《恢复公共财政》报告：89%的OECD国家在社会保护领域实施节支措施",
-      "content": "经合组织（OECD）于2026年5月27日发布《恢复公共财政》（Restoring Public Finances）报告（107页），系统梳理OECD国家2025-2026年财政整固举措。与养老金直接相关的核心发现：89%的OECD国家正在社会保护（含养老金）和/或医疗保健领域实施节支措施；仅养老金支出一项，到2060年可能使GDP占比上升约2个百分点；报告呼吁各国综合考虑延迟退休、降低待遇水平、提高缴费率等政策工具；指出新西兰等国养老金制度如不改革，公共债务将不可持续。",
-      "date": "2026-05-27",
-      "category": "政策分析",
-      "importance": 3,
-      "source": "OECD（经合组织）",
-      "url": "https://www.oecd.org/en/publications/restoring-public-finances_fbcf9161-en.html"
-    },
-    {
-      "id": 345,
-      "country": "韩国",
-      "title": "国民年金基金运用委员会将国内股票目标配置比例从14.9%大幅上调至20.8%",
-      "content": "韩国国民年金公团（NPS）基金运用委员会于2026年5月28日召开第5次会议，批准2026年资产配置目标修订案及2027-2031年中期资产配置计划。核心决策：国内股票目标配置比例从14.9%上调至20.8%（+5.9个百分点），海外股票从37.2%下调至34.7%，国内债券从24.9%下调至23.1%。计入战略和战术配置弹性后，国内股票实际上限可达约25.8%，高于2月底实际持仓约24.5%，从而避免约176.9万亿韩元的机械性抛售。NPS理事长金成柱否认政治动机，强调NPS「忠实履行长期投资者角色」。",
-      "date": "2026-05-28",
-      "category": "投资动态",
-      "importance": 5,
-      "source": "Yonhap News Agency（韩国联合通讯社）",
-      "url": "https://en.yna.co.kr/view/AEN20260528010900320"
-    },
-    {
-      "id": 346,
-      "country": "韩国",
-      "title": "NPS一季度投资收益率4.42%，国内股票+21.67%，显著超越挪威GPFG及荷兰ABP",
-      "content": "NPS于2026年5月29日公布2026年第一季度投资业绩：总资产规模1,526万亿韩元（约1.29万亿美元），较2025年末增加68万亿韩元；一季度加权收益率+4.42%。各资产类别表现：国内股票+21.67%（最佳，由AI驱动的半导体产业繁荣推动），另类投资+5.27%，海外债券+4.98%，海外股票-0.11%，国内债券-2.03%。国际比较：挪威GPFG同期-1.9%，荷兰ABP同期-0.5%。",
-      "date": "2026-05-29",
-      "category": "投资动态",
-      "importance": 4,
-      "source": "ChosunBiz（韩国朝鲜日报经济版）",
-      "url": "https://www.chosun.com/english/market-money-en/2026/05/29/64RJIXV67JBRTFIAHAL6KXCWSM/"
-    },
-    {
-      "id": 347,
-      "country": "芬兰",
-      "title": "Tela公布Q1养老金资产数据：名义收益+0.1%，实际收益-1.7%，中东冲突冲击显著",
-      "content": "芬兰养老金联盟（Tela）于2026年5月29日前后公布2026年第一季度收益关联型养老金资产数据：总资产规模2,840亿欧元，较2025年末减少约10亿欧元；一季度名义收益率+0.1%，实际收益率-1.7%。各类资产名义收益：另类投资+1.6%，房地产+0.5%，股票-0.3%，固定收益-0.5%。Tela首席经济学家Mikko Mäkinen指出「霍尔木兹海峡封锁迅速反映在能源价格上，加速了通胀并推高了市场利率」，但同时表示「资产在地域和资产类别上的多元化配置在波动的市场环境中提供了保护」。",
-      "date": "2026-05-29",
-      "category": "投资动态",
-      "importance": 3,
-      "source": "European Pensions / Tela（芬兰养老金联盟）",
-      "url": "https://www.europeanpensions.net/ep/Finnish-earnings-related-pension-assets-fall-by-1bn-in-Q1.php"
-    },
-    {
-      "id": 348,
-      "country": "俄罗斯",
-      "title": "央行报告Q1养老金组合达9.7万亿卢布：长期储蓄计划新增130万人，NPF投资收益率13.1%-13.9%",
-      "content": "俄罗斯央行（Bank of Russia）于2026年5月29日发布《2026年第一季度非国有养老金基金关键指标回顾》。核心数据：养老金总组合规模9.7万亿卢布（较上季度增长16.8%）；长期储蓄计划（LSP）Q1新增130万人参与，总参与人数达1,030万；NPF投资收益率（年化）：养老金储蓄13.1%，养老金储备13.9%；五年来首次出现NPF客户向俄罗斯社会基金（SFR）转移的趋势逆转；组合配置方面，NPF增持联邦政府债券（OFZ，以固定票息为主），减持公司债券、股票和存款——监管机构将公司债券持有下降归因于与OFZ的收益率利差收窄。",
-      "date": "2026-05-29",
-      "category": "投资动态",
-      "importance": 4,
-      "source": "Bank of Russia（俄罗斯央行）",
-      "url": "http://cbr.ru/eng/press/event/?id=32581"
     }
   ]
 }
