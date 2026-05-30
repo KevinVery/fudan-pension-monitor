@@ -245,8 +245,11 @@ const App = {
     // 渲染单一条目
     renderEntry(entry, index) {
         const stars = '★'.repeat(entry.importance) + '☆'.repeat(5 - entry.importance);
-        const sourceUrl = entry.url || '#';
+        const sourceUrl = entry.url;
         const sourceDisplay = entry.source || '未标注来源';
+        const sourceHtml = sourceUrl
+            ? `<a href="${sourceUrl}" target="_blank" rel="noopener noreferrer">${sourceDisplay}</a>`
+            : sourceDisplay;
 
         return `
             <article class="entry-card">
@@ -267,7 +270,7 @@ const App = {
                 <div class="entry-footer">
                     <span class="entry-date">📅 ${entry.date}</span>
                     <span class="entry-source">
-                        📚 来源：<a href="${sourceUrl}" target="_blank" rel="noopener noreferrer">${sourceDisplay}</a>
+                        📚 来源：${sourceHtml}
                     </span>
                 </div>
             </article>
