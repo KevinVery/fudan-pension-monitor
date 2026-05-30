@@ -3,10 +3,10 @@
     "site_name": "全球养老金政策动态追踪",
     "site_subtitle": "Global Pension Policy Monitor",
     "description": "跟踪全球16个主要经济体的养老金政策、改革和投资动态，提供权威、及时的政策情报。",
-    "last_updated": "2026-05-24",
+    "last_updated": "2026-05-30",
     "report_period_start": "2026-04-01",
-    "report_period_end": "2026-05-23",
-    "total_entries": 61,
+    "report_period_end": "2026-05-30",
+    "total_entries": 69,
     "data_version": "4.0-may16-update",
     "countries_covered": 16,
     "version": "1.0"
@@ -682,6 +682,94 @@
       "importance": 4,
       "source": "英国养老金保护基金(PPF) / SPP / Pensions Expert / IPE / Pensions Age",
       "url": "https://www.ppf.co.uk/ppf-7800-index"
+    },
+    {
+      "id": 62,
+      "country": "UK",
+      "title": "HMRC Pension Schemes Newsletter 181: IHT on Pensions Consultation, Online Service Withdrawal, RAS Updates",
+      "content": "HMRC published Pension Schemes Newsletter 181 on 28 May 2026 covering three topics. Inheritance Tax on pensions: from April 2027, unused pension funds and certain death benefits will be subject to IHT; a technical note was published 11 May and a consultation on draft secondary legislation launched 18 May (closing 11 June). Pension Schemes Online Service withdrawal: the service will close by April 2027; all schemes must migrate by 31 December 2026. Relief at Source: updated APSS105/106 forms with new PST Reference and administrator ID fields; 2025-2026 annual return due 5 July 2026; Strategic Payment Service launching summer 2026.",
+      "date": "2026-05-28",
+      "category": "Policy Adjustment",
+      "importance": 3,
+      "source": "HM Revenue & Customs (HMRC)",
+      "url": "https://www.gov.uk/government/publications/pension-schemes-newsletter-181-may-2026/newsletter-181-may-2026"
+    },
+    {
+      "id": 63,
+      "country": "US",
+      "title": "New York Governor Signs Tier 6 Pension Reform: Teacher Retirement Age Lowered from 63 to 58",
+      "content": "New York Governor Kathy Hochul signed the Tier 6 pension reform provisions of the state budget into law on 28 May 2026. The reform lowers the normal retirement age for teachers and teaching assistants from 63 to 58 (with 30 years of service). Total cost is $557 million (first year), scaled back from an initial $1.5 billion proposal. NYC share is $123.3 million. Contribution rates for other government workers reduced to 3%-5.75% range. Overtime calculation cap for final average salary increased from ~$22,000 to $30,000. This partially rolls back Tier 6 provisions enacted under Governor Cuomo in 2012.",
+      "date": "2026-05-28",
+      "category": "Policy Reform",
+      "importance": 4,
+      "source": "Education Week / NY State Legislature / Governor's Office",
+      "url": "https://www.edweek.org/policy-politics/new-york-teachers-win-lower-retirement-age-as-lawmakers-pass-pension-reforms/2026/05"
+    },
+    {
+      "id": 64,
+      "country": "Italy",
+      "title": "INPS Message No. 1808: ISTAT Occupation Code Update for Arduous Jobs — Workers Exempt from 2027+ Pension Age Increases",
+      "content": "INPS published Message No. 1808 on 29 May 2026, in coordination with the Ministry of Labour, releasing correspondence tables for the transition from CP2011 to CP2021 ISTAT occupation classification codes. The measure ensures workers in arduous/heavy occupations (lavori gravosi) do not lose access to: early retirement for early workers (lavoratori precoci); exemption from life expectancy-linked pension age increases starting 2027 (+1 month to 67y 1m in 2027, +3 months to 67y 3m in 2028); and APE Social (social early retirement allowance, currently valid through 31 December 2026 unless renewed). Previously submitted pension applications will be re-evaluated under the new code correspondence tables.",
+      "date": "2026-05-29",
+      "category": "Policy Adjustment",
+      "importance": 3,
+      "source": "INPS (Italian National Social Security Institute)",
+      "url": "https://www.ilmattino.it/economia/news/pensioni_inps_aggiorna_codici_lavori_gravosi_chi_evitera_aumento_eta_uscita-9562444.html"
+    },
+    {
+      "id": 65,
+      "country": "Italy",
+      "title": "INPS Message No. 1790: Italy-Albania Bilateral Pension Applications Routed to Lecce Processing Centre from 1 June 2026",
+      "content": "INPS published Message No. 1790 on 28 May 2026, pursuant to the Italy-Albania bilateral social security agreement (in force since 1 July 2025). From 1 June 2026, new pension applications transmitted by the Albanian social security institution (ISSH) will be routed to the specialised 'International Benefits Processing Centre — Albania Polo' at the Lecce provincial directorate of INPS. Applications received by 31 May 2026 and pensions already in payment remain under the Perugia directorate. Covered pension types include disability, old-age, seniority, and survivors pensions under both international convention and private management.",
+      "date": "2026-05-28",
+      "category": "Policy Adjustment",
+      "importance": 2,
+      "source": "INPS (Italian National Social Security Institute)",
+      "url": "https://www.edotto.com/articolo/pensioni-italia-albania-dal-1-giugno-domande-al-polo-inps-di-lecce"
+    },
+    {
+      "id": 66,
+      "country": "OECD",
+      "title": "OECD Publishes 'Restoring Public Finances': 89% of OECD Countries Implementing Savings in Social Protection Including Pensions",
+      "content": "The OECD published its 'Restoring Public Finances' report (107 pages) on 27 May 2026, systematically reviewing fiscal consolidation measures across OECD countries in 2025-2026. Key pension-related findings: 89% of OECD countries are implementing savings measures in social protection (including pensions) and/or healthcare; pension spending alone could increase by approximately 2 percentage points of GDP by 2060; the report calls on countries to consider policy tools including delayed retirement, reduced benefit levels, and increased contribution rates; country-specific analysis warns that pension systems in New Zealand and other countries face unsustainable debt trajectories without reform.",
+      "date": "2026-05-27",
+      "category": "Policy Analysis",
+      "importance": 3,
+      "source": "OECD",
+      "url": "https://www.oecd.org/en/publications/restoring-public-finances_fbcf9161-en.html"
+    },
+    {
+      "id": 67,
+      "country": "Korea",
+      "title": "NPS Fund Management Committee Raises Domestic Equity Target Allocation from 14.9% to 20.8%",
+      "content": "The NPS Fund Management Committee held its 5th meeting on 28 May 2026 and approved revised 2026 asset allocation targets alongside the 2027-2031 mid-term plan. Key decision: domestic equity target raised from 14.9% to 20.8% (+5.9pp); foreign equities reduced from 37.2% to 34.7%; domestic bonds from 24.9% to 23.1%. Including SAA and TAA flexibility, the effective domestic equity ceiling reaches approximately 25.8%, above the actual ~24.5% holding at end-February, thereby averting an estimated 176.9 trillion won mechanical sell-off. The decision also considers FX factors — reducing foreign equity allocation eases KRW depreciation pressure. NPS Chairman Kim Sung-joo denied political motives, stating NPS is 'faithfully fulfilling its role as a long-term investor'. Fund size: approximately 1,526 trillion won as of end-Q1 2026.",
+      "date": "2026-05-28",
+      "category": "Investment",
+      "importance": 5,
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260528010900320"
+    },
+    {
+      "id": 68,
+      "country": "Korea",
+      "title": "NPS Q1 2026 Investment Return +4.42%, Domestic Equities +21.67%, Outperforms Norway GPFG and Netherlands ABP",
+      "content": "NPS reported Q1 2026 investment performance on 29 May 2026. Total assets: 1,526 trillion won (~$1.29 trillion), up 68 trillion won from end-2025. Money-weighted Q1 return: +4.42%. By asset class: domestic equities +21.67% (best performer, driven by AI-led semiconductor boom), alternative investments +5.27%, foreign bonds +4.98%, foreign equities -0.11% (impacted by Middle East conflict), domestic bonds -2.03%. International comparison: Norway GPFG -1.9%, Netherlands ABP -0.5% over the same period. The KOSPI index surpassed 8,400 points during the quarter.",
+      "date": "2026-05-29",
+      "category": "Investment",
+      "importance": 4,
+      "source": "ChosunBiz / Yonhap Infomax",
+      "url": "https://www.chosun.com/english/market-money-en/2026/05/29/64RJIXV67JBRTFIAHAL6KXCWSM/"
+    },
+    {
+      "id": 69,
+      "country": "Finland",
+      "title": "Tela Q1 2026 Pension Asset Report: Nominal Return +0.1%, Real Return -1.7%, Middle East Conflict Impact",
+      "content": "Finnish Pension Alliance (Tela) reported Q1 2026 earnings-related pension asset data around 29 May 2026. Total assets: 284 billion euros, down approximately 1 billion euros from end-2025. Q1 nominal return: +0.1%; real return (after inflation): -1.7%. By asset class (nominal): alternative investments +1.6%, real estate +0.5%, equities -0.3%, fixed income -0.5%. The initially positive start to 2026 was reversed by escalating Middle East conflict and the Strait of Hormuz closure, which drove energy price spikes and accelerated inflation, pushing up interest rates and depressing both equity and fixed income valuations. US corporate pension median Q1 return was -0.6% and public pension -0.2% (Northern Trust institutional tracker), showing the systemic nature of the impact.",
+      "date": "2026-05-29",
+      "category": "Investment",
+      "importance": 3,
+      "source": "European Pensions / Tela (Finnish Pension Alliance)",
+      "url": "https://www.europeanpensions.net/ep/Finnish-earnings-related-pension-assets-fall-by-1bn-in-Q1.php"
     }
   ]
 }
