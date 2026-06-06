@@ -82,23 +82,34 @@ def extract_current_entries():
     ns = runpy.run_path(str(CURRENT_SCRIPT))
     entries = []
     for entry in ns["POLICY_ENTRIES"] + ns["INVESTMENT_ENTRIES"]:
+        url_note = f"原始详情页（URL）：{entry['url']}"
+        if entry.get("extra_url"):
+            url_note += f"；补充核验页（URL）：{entry['extra_url']}"
+        verification_note = (
+            f"{url_note}。"
+            f"原文发布日期：{entry['original_pub_date']}；"
+            f"政策生效日期：{entry['policy_effective_date']}；"
+            f"是否属于本期窗口：{entry['in_report_window']}；"
+            f"是否已经核验：{entry['verified']}；"
+            f"是否可以进入正式稿：{entry['ready_for_report']}。"
+        )
         entries.append(
             {
                 "country": entry["country"],
                 "title": entry["title"].split("|", 1)[-1].strip(),
-                "content": entry["body"],
+                "content": f"{entry['body']} {verification_note}",
                 "date": entry["date"],
                 "category": entry["category"],
                 "importance": entry["importance"],
                 "source": entry["source"],
                 "url": entry["url"],
                 "extra_url": entry.get("extra_url", ""),
-                "original_pub_date": entry["date"],
-                "policy_effective_date": "详见原文",
-                "in_report_window": True,
-                "verified": True,
-                "ready_for_report": True,
-                "verification_note": "已下载并核验具体原文详情页；按新版短简报报告同步更新。",
+                "original_pub_date": entry["original_pub_date"],
+                "policy_effective_date": entry["policy_effective_date"],
+                "in_report_window": entry["in_report_window"] == "是",
+                "verified": entry["verified"] == "是",
+                "ready_for_report": entry["ready_for_report"].startswith("是"),
+                "verification_note": verification_note,
             }
         )
     return entries
@@ -122,7 +133,7 @@ def main():
     meta["last_updated"] = "2026-06-06"
     meta["report_period_end"] = "2026-06-06"
     meta["total_entries"] = len(data["entries"])
-    meta["data_version"] = "6.1-20260606-two-week-site-update"
+    meta["data_version"] = "6.2-20260606-verification-fields"
 
     DATA_PATH.write_text(
         json.dumps(data, ensure_ascii=False, indent=2) + "\n",
