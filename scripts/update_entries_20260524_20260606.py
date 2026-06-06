@@ -133,7 +133,7 @@ def main():
     meta["last_updated"] = "2026-06-06"
     meta["report_period_end"] = "2026-06-06"
     meta["total_entries"] = len(data["entries"])
-    meta["data_version"] = "6.2-20260606-verification-fields"
+    meta["data_version"] = "6.3-20260606-norway-omission-fix"
 
     DATA_PATH.write_text(
         json.dumps(data, ensure_ascii=False, indent=2) + "\n",

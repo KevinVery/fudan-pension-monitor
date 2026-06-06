@@ -6,8 +6,8 @@
     "last_updated": "2026-06-06",
     "report_period_start": "2025-12-20",
     "report_period_end": "2026-06-06",
-    "total_entries": 368,
-    "data_version": "6.2-20260606-verification-fields",
+    "total_entries": 369,
+    "data_version": "6.3-20260606-norway-omission-fix",
     "countries_covered": 16,
     "version": "2.0"
   },
@@ -4169,6 +4169,24 @@
       "id": 365
     },
     {
+      "country": "挪威",
+      "title": "政府提交2026年养老金调节和领取者收入状况报告",
+      "content": "挪威劳动与包容部于2026年6月5日向议会提交《2026年养老金调节及养老金领取者收入状况》报告，并经同日国务会议批准。该报告说明2026年5月1日起国民保险基本金额、调节因子、最低养老金水平和保障养老金标准的年度调节安排，同时交代调节前与养老金领取者、残障人士和雇员组织围绕测算基础开展的沟通。根据政府5月20日发布的相关说明，2026年国民保险基本金额提高至136549挪威克朗，领取中的老年养老金调节幅度为4.69%，报告还进一步呈现影响养老金领取者实际收入、购买力、最低养老金领取人数及低收入状况的因素。本条应表述为年度养老金调节报告和收入状况说明，而不是新的结构性养老金改革；政策生效口径以2026年5月1日起的年度调节为准，议会后续处理仍按挪威程序推进。 原始详情页（URL）：https://www.regjeringen.no/no/dokumenter/meld.-st.-10-20252026/id3163993/；补充核验页（URL）：https://www.regjeringen.no/no/aktuelt/offisielt-fra-statsrad-5.-juni-2026/id3164388/。原文发布日期：2026-06-05；政策生效日期：2026年5月1日起的年度养老金调节；议会后续处理以挪威程序为准；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是。",
+      "date": "2026-06-05",
+      "category": "政策调整",
+      "importance": 4,
+      "source": "挪威政府/劳动与包容部",
+      "url": "https://www.regjeringen.no/no/dokumenter/meld.-st.-10-20252026/id3163993/",
+      "extra_url": "https://www.regjeringen.no/no/aktuelt/offisielt-fra-statsrad-5.-juni-2026/id3164388/",
+      "original_pub_date": "2026-06-05",
+      "policy_effective_date": "2026年5月1日起的年度养老金调节；议会后续处理以挪威程序为准",
+      "in_report_window": true,
+      "verified": true,
+      "ready_for_report": true,
+      "verification_note": "原始详情页（URL）：https://www.regjeringen.no/no/dokumenter/meld.-st.-10-20252026/id3163993/；补充核验页（URL）：https://www.regjeringen.no/no/aktuelt/offisielt-fra-statsrad-5.-juni-2026/id3164388/。原文发布日期：2026-06-05；政策生效日期：2026年5月1日起的年度养老金调节；议会后续处理以挪威程序为准；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是。",
+      "id": 366
+    },
+    {
       "country": "日本",
       "title": "GPIF发布第11回机构投资者尽责管理问卷结果",
       "content": "日本年金积立金管理运用独立行政法人（GPIF）6月2日在官网发布第11回机构投资者尽责管理活动上市公司问卷结果。该调查面向TOPIX成分企业，关注运用受托机构的尽责管理、建设性对话、可持续性信息使用、KPI设置和资本成本意识等议题，并披露本次回答企业数量和回答率。这属于公的养老金资产管理中的投资治理动态，反映GPIF继续通过外部管理人评价、企业反馈和可持续性投资政策推动投资链条改进，而不是单纯市场收益报道。 原始详情页（URL）：https://www.gpif.go.jp/esg-stw/stewardship/stewardship_questionnaire_11.html。原文发布日期：2026-06-02（GPIF首页新闻列表）；政策生效日期：不适用，投资治理调查结果发布；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是。",
@@ -4184,7 +4202,7 @@
       "verified": true,
       "ready_for_report": true,
       "verification_note": "原始详情页（URL）：https://www.gpif.go.jp/esg-stw/stewardship/stewardship_questionnaire_11.html。原文发布日期：2026-06-02（GPIF首页新闻列表）；政策生效日期：不适用，投资治理调查结果发布；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是。",
-      "id": 366
+      "id": 367
     },
     {
       "country": "英国",
@@ -4202,7 +4220,7 @@
       "verified": true,
       "ready_for_report": true,
       "verification_note": "原始详情页（URL）：https://www.pensionsage.com/pa/Hartwells-pension-scheme-completes-160m-buy-in-with-Just.php。原文发布日期：2026-06-03；政策生效日期：交易已完成，报道日期为2026-06-03；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是。",
-      "id": 367
+      "id": 368
     },
     {
       "country": "英国",
@@ -4220,7 +4238,7 @@
       "verified": true,
       "ready_for_report": true,
       "verification_note": "原始详情页（URL）：https://www.pensionsage.com/pa/Lowman-Pension-Scheme-secures-10m-buy-in-with-L-G.php。原文发布日期：2026-06-03；政策生效日期：交易已完成，报道日期为2026-06-03；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是。",
-      "id": 368
+      "id": 369
     }
   ]
 }
