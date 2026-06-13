@@ -3,11 +3,11 @@
     "site_name": "全球养老金政策动态追踪",
     "site_subtitle": "Global Pension Policy Monitor",
     "description": "跟踪全球16个主要经济体的养老金政策、改革和投资动态，提供权威、及时的政策情报。",
-    "last_updated": "2026-05-30",
+    "last_updated": "2026-06-13",
     "report_period_start": "2025-12-20",
-    "report_period_end": "2026-05-21",
-    "total_entries": 340,
-    "data_version": "5.0-word-files-update",
+    "report_period_end": "2026-06-13",
+    "total_entries": 350,
+    "data_version": "5.1-june7-13-update",
     "countries_covered": 16,
     "version": "2.0"
   },
@@ -3751,6 +3751,116 @@
       "importance": 4,
       "source": "全球千大基金（Top1000funds.com）",
       "url": "https://www.top1000funds.com/investor-profile/velliv-reset-more-danish-funds-lean-into-low-cost-dc-model/"
+    },
+    {
+      "country": "美国",
+      "title": "SSA发布2026年OASDI受托人报告：OASI信托基金预计2032年第四季度耗尽",
+      "content": "美国社会保障署（SSA）于2026年6月9日发布《2026年OASDI受托人报告》。报告显示，老龄与遗属保险（OASI）信托基金预计在2032年第四季度耗尽，比去年预测提前了一个季度；合并的OASDI信托基金预计2034年耗尽。报告将75年精算赤字从去年的3.82%上调至工资税基数的4.42%，增幅约16%，主要原因包括总和生育率假设从1.90下调至1.75、移民假设下修以及2025年《一大美丽法案》（OBBBA）减少了社保收入。若信托基金耗尽而国会未采取行动，当期工资税收入仅能支付约78%的预定待遇，相当于约22%的福利削减。",
+      "date": "2026-06-09",
+      "category": "精算与可持续性",
+      "importance": 5,
+      "source": "美国社会保障署（SSA）",
+      "url": "https://www.ssa.gov/oact/TR/2026/index.html",
+      "id": 341
+    },
+    {
+      "country": "德国",
+      "title": "联邦参议院批准2026年法定养老金上调4.24%",
+      "content": "德国联邦参议院（Bundesrat）于2026年6月12日批准了已由联邦内阁通过的2026年年度养老金调整法案。自2026年7月1日起，德国法定养老金将在全国统一上调4.24%（东西部统一涨幅），养老金计算基数（Rentenwert）从每个工资点40.79欧元提高至42.52欧元。以45年平均收入缴费的标准养老金（Standardrente）从1,835.15欧元上涨至1,913欧元/月（毛额），每月增加约77.85欧元，惠及约2,100万养老金领取者。",
+      "date": "2026-06-12",
+      "category": "待遇调整",
+      "importance": 5,
+      "source": "德国法定养老金保险机构",
+      "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2026/260612-rentenanpassung-2026-bundesrat",
+      "id": 342
+    },
+    {
+      "country": "英国",
+      "title": "DWP就养老金转移反欺诈规则修订公开咨询",
+      "content": "英国工作与养老金部（DWP）于2026年6月9日发布养老金转移规则修订咨询，拟修改《2021年职业和个人养老金计划（转移条件）条例》，在维持防范养老金诈骗框架的同时减少不必要的转移延误。方案重点针对Small Self-Administered Schemes（SSAS）风险，提出当成员不能证明与接收计划存在可核验雇佣联系时设置新的红旗情形，使受托人可拒绝转移；同时拟扩大第一条件下可被认可的接收计划范围、删除海外投资琥珀旗并避免成员在12个月内重复参加MaPS防诈骗指导。",
+      "date": "2026-06-09",
+      "category": "法规更新",
+      "importance": 4,
+      "source": "英国工作与养老金部",
+      "url": "https://www.gov.uk/government/consultations/protecting-pension-savers-proposals-to-amend-the-occupational-and-personal-pension-schemes-conditions-for-transfers-regulations-2021/options-assessment",
+      "id": 343
+    },
+    {
+      "country": "英国",
+      "title": "政府确认不设1950年代女性国家养老金年龄通信补偿方案",
+      "content": "英国工作与养老金部（DWP）于2026年6月9日发布关于1950年代出生女性国家养老金年龄通信问题的新决定。该文件仅替代2024年12月回应中关于通信的部分，不改变国家养老金年龄规则本身。政府承认向受影响女性寄送个人通知信存在28个月延迟，并表示本应更早致歉；但同时认为该延迟没有造成可认定的直接经济损失，因此决定不设立财务补偿方案，也不向样本投诉人支付个别财务赔偿。政府称将另行发布国家养老金通信行动计划。",
+      "date": "2026-06-09",
+      "category": "政策调整",
+      "importance": 4,
+      "source": "英国工作与养老金部",
+      "url": "https://www.gov.uk/government/publications/government-response-to-parliamentary-and-health-service-ombudsmans-investigation-into-womens-state-pension-age-communications-and-associated-issues/governments-new-decision-womens-state-pension-age-communications",
+      "id": 344
+    },
+    {
+      "country": "法国",
+      "title": "退休保险机构上线ASPA在线申请服务",
+      "content": "法国退休保险机构于2026年6月10日更新说明，推出用于申请老年人团结津贴（ASPA）的在线服务。ASPA是向低收入退休人员按月发放、且需满足条件的补充性养老保障，页面明确该待遇不会自动发放，申请人需主动提出申请。新服务允许符合条件者通过个人账户或FranceConnect认证在线提交申请，并利用月度资源数据装置（DRM）等官方数据在流程初期核验信息，以减少申报错误和需提交的证明材料；申请后可在个人账户追踪进度。本条属于养老金服务管理优化，不代表待遇水平调整。",
+      "date": "2026-06-10",
+      "category": "管理服务",
+      "importance": 3,
+      "source": "法国退休保险机构",
+      "url": "https://www.lassuranceretraite.fr/portail-info/sites/pub/hors-menu/actualites-nationales/retraite/2026/nouveau-service-en-ligne-aspa.html",
+      "id": 345
+    },
+    {
+      "country": "韩国",
+      "title": "保健福祉部就基础年金下厚上薄改编听取专家意见",
+      "content": "韩国保健福祉部于2026年6月9日举行基础年金改编方向专家论坛，听取关于老年贫困、制度引入十年后的改革必要性和下厚上薄方向的意见。专家发言提到韩国老年贫困率仍处OECD高位，2021年后基础年金政策性上调停止，减贫效果趋于停滞；改革方向包括对低收入老年人实行差别化给付、将对象选定标准调整为基准中位收入，并处理夫妻统一减额、职业年金领取者及配偶排除、基础生活保障待遇中给了又拿走等盲区。",
+      "date": "2026-06-09",
+      "category": "政策讨论",
+      "importance": 3,
+      "source": "韩国保健福祉部",
+      "url": "https://www.mohw.go.kr/board.es?act=view&bid=0027&list_no=1490764&mid=a10503000000&nPage=1&tag=",
+      "id": 346
+    },
+    {
+      "country": "巴西",
+      "title": "TCU判定INSS须在180天内改进自动养老金审批系统",
+      "content": "巴西联邦审计法院（TCU）于2026年6月10日作出第1498/2026号裁决，要求INSS、Dataprev和养老金社会保障部在180天内改进自动养老金审批系统。审计发现：约10.94%的养老金申请被自动拒绝，且未给予申请人说明或救济机会；INSS未能达到2025年底自动审批率达55%的目标（仅约50%）；CNIS数据库存在工作记录缺失、薪酬数据缺漏等问题。TCU要求INSS必须主动通知申请人其数据中存在的任何疑问，并在争议较小的部分与待核实部分之间优先支付无争议部分的待遇。",
+      "date": "2026-06-10",
+      "category": "监管治理",
+      "importance": 4,
+      "source": "巴西联邦审计法院（TCU）",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/06/tcu-determina-que-inss-mude-sistema-de-concessao-automatica-de-aposentadoria-entenda.shtml",
+      "id": 347
+    },
+    {
+      "country": "英国",
+      "title": "DWP发布DB养老金计划盈余释放规则草案公开咨询",
+      "content": "英国工作与养老金部于2026年6月10日发布DB养老金计划盈余释放咨询，提出《2027年职业养老金计划（向雇主付款）条例》草案，拟放宽具备盈余的确定给付（DB）计划向雇主释放盈余的条件。文件称约五分之四DB计划处于盈余状态，估计总盈余约1,600亿英镑；但释放权仍由受托人掌握，并需满足低依赖性资金门槛、三年前瞻性测试、精算师证明、提前三个月通知成员以及付款后通知TPR等保护条件。该安排仍处咨询阶段。",
+      "date": "2026-06-10",
+      "category": "法规更新",
+      "importance": 4,
+      "source": "英国工作与养老金部；英国养老金监管局",
+      "url": "https://www.gov.uk/government/consultations/surplus-flexibilities-for-defined-benefit-pension-schemes-unlocking-value-for-employers-and-scheme-members/surplus-flexibilities-for-defined-benefit-pension-schemes-unlocking-value-for-employers-and-scheme-members",
+      "id": 348
+    },
+    {
+      "country": "澳大利亚",
+      "title": "APRA确认长寿产品资本报告模板并衔接7月AILP安排",
+      "content": "澳大利亚审慎监管局（APRA）于2026年6月12日发布媒体稿，确认在咨询后最终实施长寿产品资本报告模板。该模板与APRA此前关于长寿产品资本处理修订的回应文件相衔接，因行业未提交反馈，草案模板不再作进一步修改。APRA同时提示，拟自2026年7月1日起采用Advanced Illiquidity Premium（AILP）的寿险公司，应提前与其APRA监管人联系。",
+      "date": "2026-06-12",
+      "category": "监管治理",
+      "importance": 3,
+      "source": "澳大利亚审慎监管局（APRA）",
+      "url": "https://www.apra.gov.au/news-and-publications/apra-finalises-longevity-capital-reporting-template-following-consultation",
+      "id": 349
+    },
+    {
+      "country": "国际组织",
+      "title": "第114届国际劳工大会通过《平台经济体面工作公约》，纳入社会保障条款",
+      "content": "国际劳工组织（ILO）第114届国际劳工大会于2026年6月12日在日内瓦通过《平台经济体面工作公约》（Decent Work in the Platform Economy Convention, 2026），投票结果为406票赞成、8票反对、36票弃权，同时通过配套建议书。这是首个专门针对数字平台劳动者权利的国际公约。在养老金和社会保障方面，公约要求会员国确保平台工人获得不低于具有相同雇佣地位劳动者的社会保障待遇，涵盖养老金、医疗保险等社会保险项目。",
+      "date": "2026-06-12",
+      "category": "国际标准",
+      "importance": 4,
+      "source": "国际劳工组织（ILO）",
+      "url": "https://www.ilo.org/resource/conference-paper/ilc/ilc114/results-vote-adoption-decent-work-platform-economy-convention-2026",
+      "id": 350
     }
   ]
 }
