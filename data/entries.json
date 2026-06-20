@@ -3,11 +3,11 @@
     "site_name": "全球养老金政策动态追踪",
     "site_subtitle": "Global Pension Policy Monitor",
     "description": "跟踪全球16个主要经济体的养老金政策、改革和投资动态，提供权威、及时的政策情报。",
-    "last_updated": "2026-06-13",
+    "last_updated": "2026-06-20",
     "report_period_start": "2025-12-20",
-    "report_period_end": "2026-06-13",
-    "total_entries": 382,
-    "data_version": "5.3-june7-13-reviewed",
+    "report_period_end": "2026-06-20",
+    "total_entries": 394,
+    "data_version": "5.4-june14-20",
     "countries_covered": 16,
     "version": "2.0"
   },
@@ -4424,6 +4424,138 @@
       "source": "国际劳工组织（ILO）",
       "url": "https://www.ilo.org/resource/conference-paper/ilc/ilc114/results-vote-adoption-decent-work-platform-economy-convention-2026",
       "id": 382
+    },
+    {
+      "country": "瑞典",
+      "title": "议会通过收入养老金系统盈余分配决定",
+      "content": "瑞典议会（Riksdagen）于2026年6月17日发布决定，批准将收入养老金系统（inkomstpensionssystemet）的盈余进行分配。本次盈余分配是基于系统财务评估结果做出的法定安排，体现了瑞典养老金系统在NDC框架下的自动稳定器功能。该决定不改变现行缴费率或退休年龄规则，属于NDC制度框架内的常规精算平衡操作。",
+      "date": "2026-06-17",
+      "category": "政策调整",
+      "importance": 3,
+      "source": "瑞典议会（Riksdagen）",
+      "url": "https://www.riksdagen.se/en/news/articles/2026/jun/17/surplus-in-the-income-pension-system-to-be_cmsfa6d12fd-bc28-4208-9d92-a2ea36baa09cen/",
+      "id": 383
+    },
+    {
+      "country": "巴西",
+      "title": "联邦政府颁布MP 1.369/2026，将INSS优先审批队列等待期从45天缩短至30天",
+      "content": "巴西联邦政府于2026年6月19日颁布第1.369/2026号临时措施，将INSS福利申请的优先审批队列等待期从45天缩短至30天。此前仅有等待超过45天的申请可进入优先通道；本次调整后，从第31天起申请即自动进入优先队列。截至2026年6月，INSS申请积压量为219.2万件。本条属于行政提速措施，不涉及待遇水平或资格条件的制度性调整。",
+      "date": "2026-06-19",
+      "category": "行政安排",
+      "importance": 4,
+      "source": "巴西参议院（Senado Federal）",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/06/19/mp-amplia-atuacao-de-programa-para-reduzir-fila-do-inss",
+      "id": 384
+    },
+    {
+      "country": "印度",
+      "title": "PFRDA发布公告允许政府实体以年费500卢比继续使用PoP服务",
+      "content": "印度PFRDA于2026年6月16日发布通告，允许政府实体在运营条件不允许直接对接CRA系统时，继续通过PoP办理NPS业务，须支付每名参保人每年500卢比的统一年费。此通告是PFRDA对2026年3月分类公告中强制性要求的操作化松绑。",
+      "date": "2026-06-16",
+      "category": "法规更新",
+      "importance": 3,
+      "source": "印度养老基金监管与发展局（PFRDA）",
+      "url": "https://taxguru.in/corporate-law/pfrda-government-entities-pop-services-rs-500-annual-fee.html",
+      "id": 385
+    },
+    {
+      "country": "印度",
+      "title": "PFRDA修订NPS和APY服务提供点审计框架",
+      "content": "印度PFRDA于2026年6月17日发布两份通告，分别修订NPS和APY服务提供点（PoP）的审计框架。新审计框架要求PoP接受定期审计检查，强化对参保人资金流转、费用收取合规性和服务标准的监督。APY已覆盖超过9,000万参保人。",
+      "date": "2026-06-17",
+      "category": "法规更新",
+      "importance": 3,
+      "source": "印度养老基金监管与发展局（PFRDA）",
+      "url": "https://taxguru.in/corporate-law/pfrda-revises-audit-framework-nps-points-presence.html",
+      "id": 386
+    },
+    {
+      "country": "韩国",
+      "title": "国会举行国民年金基金治理改革论坛，提出三项管理独立化方案",
+      "content": "韩国国会于2026年6月17日举行国民年金基金治理改革论坛。论坛核心议题是将规模约1,600万亿韩元（约1.35万亿美元）的NPS基金管理权从保健福祉部中独立出来。经济改革研究院院长李昌民提出三项改革方案。议员朴洪培宣布将向国会提交《国民年金法》修正案。本次论坛为立法前意见征集阶段。",
+      "date": "2026-06-17",
+      "category": "政策改革",
+      "importance": 5,
+      "source": "韩国《朝鲜日报》商业版（ChosunBiz）",
+      "url": "https://biz.chosun.com/en/en-policy/2026/06/17/UWFUH75L35CANIHSZFPTTIAC7I/",
+      "id": 387
+    },
+    {
+      "country": "欧盟",
+      "title": "EIOPA发布2025年度报告，聚焦养老金充足性和储蓄与投资联盟",
+      "content": "EIOPA于2026年6月18日发布《2025年度报告》。在养老金方面突出三大主题：支持欧盟储蓄与投资联盟（SIU）建设、缩小欧盟养老金缺口；在全部工作领域嵌入监管简化和行政减负目标；继续推进养老金充足性和可持续性监测。",
+      "date": "2026-06-18",
+      "category": "数据发布",
+      "importance": 3,
+      "source": "欧洲保险和职业养老金管理局（EIOPA）",
+      "url": "https://www.eiopa.europa.eu/publications/eiopa-annual-report-2025_en",
+      "id": 388
+    },
+    {
+      "country": "新西兰",
+      "title": "财政部长公布KiwiSaver缴费率上调实施数据：99.5%参保人未选择退出",
+      "content": "新西兰财政部长尼古拉·威利斯于2026年6月20日公布KiwiSaver缴费率上调实施情况。自2026年4月1日起默认最低缴费率从3%上调至3.5%。在约180万工薪缴费者中，仅约9,300人（约0.5%）行使了保留旧费率权利，99.5%参保人接受了新费率。合计有效缴费率从6%提升至7%的工资水平。",
+      "date": "2026-06-20",
+      "category": "政策调整",
+      "importance": 3,
+      "source": "新西兰政府（Beehive.govt.nz）",
+      "url": "https://www.beehive.govt.nz/release/995-cent-benefiting-kiwisaver-change",
+      "id": 389
+    },
+    {
+      "country": "澳大利亚",
+      "title": "APRA发布拟议审慎标准CPS 510治理草案公开咨询",
+      "content": "澳大利亚APRA于2026年6月16日发布拟议审慎标准CPS 510治理草案，启动自2012年以来治理标准的首次重大全面修订。草案整合五项现行标准为统一跨行业框架，涵盖董事会治理、利益冲突管理和适当性要求。重大变更包括董事任期延至12年、要求重要金融机构每三年进行独立外部董事会评估、精简适当性报告等。新要求计划2028年初生效。",
+      "date": "2026-06-16",
+      "category": "法规更新",
+      "importance": 4,
+      "source": "澳大利亚审慎监管局（APRA）",
+      "url": "https://www.apra.gov.au/news-and-publications/apra-releases-draft-prudential-standard-cps-510-governance",
+      "id": 390
+    },
+    {
+      "country": "澳大利亚",
+      "title": "APRA与ASIC联合宣布金融问责制度（FAR）精简改革",
+      "content": "澳大利亚APRA与ASIC于2026年6月16日联合宣布对金融问责制度（FAR）实施精简改革，包括取消关键职能要求、提高问责人员变动通知的重要性门槛、不再要求填报直接下属信息。FAR制度适用于银行、保险公司和退休金受托人。改革预计2026年底前全部实施。",
+      "date": "2026-06-16",
+      "category": "法规更新",
+      "importance": 3,
+      "source": "APRA与ASIC",
+      "url": "https://www.apra.gov.au/news-and-publications/apra-and-asic-announce-reforms-to-streamline-financial-accountability-regime",
+      "id": 391
+    },
+    {
+      "country": "澳大利亚",
+      "title": "APRA发布地缘政治风险整备函，要求退休金受托人纳入治理和风险管理",
+      "content": "澳大利亚APRA于2026年6月17日向受监管实体发布地缘政治风险整备函，明确要求将地缘政治风险纳入治理框架、风险管理体系和危机应急预案。该函件与APRA此前在系统风险压力测试中识别出的地缘政治风险敞口相一致。",
+      "date": "2026-06-17",
+      "category": "政策调整",
+      "importance": 3,
+      "source": "澳大利亚审慎监管局（APRA）",
+      "url": "https://www.apra.gov.au/news-and-publications/apra-letter-on-geopolitical-shock-readiness",
+      "id": 392
+    },
+    {
+      "country": "韩国",
+      "title": "国民年金基金将KB金融集团和NH投资证券持股目的变更为被动投资",
+      "content": "韩国NPS于2026年6月13日进行股份披露，将其在KB金融集团和NH投资证券中的持股目的从一般投资变更为被动投资。对KB金融集团的变更是自2020年2月以来时隔6年4个月的首次。变更后NPS大幅缩减积极股东参与空间。在6月17日国会NPS治理改革论坛背景下，被解读为NPS主动收缩积极股东角色的信号。",
+      "date": "2026-06-17",
+      "category": "投资动态",
+      "importance": 4,
+      "source": "韩国联合Infomax（Yonhap Infomax）",
+      "url": "https://en.infomaxai.com/news/articleView.html?idxno=125964",
+      "id": 393
+    },
+    {
+      "country": "欧盟",
+      "title": "PensionsEurope呼吁欧盟建立统一ESG数据集，坚持仅报告一次原则",
+      "content": "欧洲养老金协会（PensionsEurope）于2026年6月15日就EIOPA综合数据收集讨论文件提交正式回应，呼吁为欧盟所有立法建立统一ESG核心数据点集合，在SFDR、IORP II和各成员国框架之间实现仅报告一次原则。PensionsEurope同时指出Solvency II不应扩展适用于职业养老金基金。",
+      "date": "2026-06-15",
+      "category": "政策调整",
+      "importance": 3,
+      "source": "投资与养老金欧洲（IPE），引述PensionsEurope",
+      "url": "https://www.ipe.com/news/pensionseurope-calls-for-single-set-of-esg-data-points-for-all-eu-legislation/10137252.article",
+      "id": 394
     }
   ]
 }
