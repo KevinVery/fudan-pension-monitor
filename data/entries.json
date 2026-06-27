@@ -3,11 +3,11 @@
     "site_name": "全球养老金政策动态追踪",
     "site_subtitle": "Global Pension Policy Monitor",
     "description": "跟踪全球16个主要经济体的养老金政策、改革和投资动态，提供权威、及时的政策情报。",
-    "last_updated": "2026-06-20",
+    "last_updated": "2026-06-27",
     "report_period_start": "2025-12-20",
-    "report_period_end": "2026-06-20",
-    "total_entries": 394,
-    "data_version": "5.4-june14-20",
+    "report_period_end": "2026-06-27",
+    "total_entries": 400,
+    "data_version": "6.6-20260627-weekly",
     "countries_covered": 16,
     "version": "2.0"
   },
@@ -4434,7 +4434,13 @@
       "importance": 3,
       "source": "瑞典议会（Riksdagen）",
       "url": "https://www.riksdagen.se/en/news/articles/2026/jun/17/surplus-in-the-income-pension-system-to-be_cmsfa6d12fd-bc28-4208-9d92-a2ea36baa09cen/",
-      "id": 383
+      "id": 383,
+      "original_pub_date": "2026-06-17",
+      "policy_effective_date": "未单独列明；为瑞典议会在NDC制度框架内作出的盈余分配决定。",
+      "in_report_window": true,
+      "verified": true,
+      "ready_for_report": true,
+      "verification_note": "原始详情页（URL）：https://www.riksdagen.se/en/news/articles/2026/jun/17/surplus-in-the-income-pension-system-to-be_cmsfa6d12fd-bc28-4208-9d92-a2ea36baa09cen/。原文发布日期：2026-06-17；政策生效日期：未单独列明；为瑞典议会在NDC制度框架内作出的盈余分配决定。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是。"
     },
     {
       "country": "巴西",
@@ -4445,7 +4451,13 @@
       "importance": 4,
       "source": "巴西参议院（Senado Federal）",
       "url": "https://www12.senado.leg.br/noticias/materias/2026/06/19/mp-amplia-atuacao-de-programa-para-reduzir-fila-do-inss",
-      "id": 384
+      "id": 384,
+      "original_pub_date": "2026-06-19",
+      "policy_effective_date": "2026-06-20起生效；临时措施刊登于联邦官方公报后实施。",
+      "in_report_window": true,
+      "verified": true,
+      "ready_for_report": true,
+      "verification_note": "原始详情页（URL）：https://www12.senado.leg.br/noticias/materias/2026/06/19/mp-amplia-atuacao-de-programa-para-reduzir-fila-do-inss。原文发布日期：2026-06-19；政策生效日期：2026-06-20起生效；临时措施刊登于联邦官方公报后实施。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是。"
     },
     {
       "country": "印度",
@@ -4456,7 +4468,13 @@
       "importance": 3,
       "source": "印度养老基金监管与发展局（PFRDA）",
       "url": "https://taxguru.in/corporate-law/pfrda-government-entities-pop-services-rs-500-annual-fee.html",
-      "id": 385
+      "id": 385,
+      "original_pub_date": "2026-06-16",
+      "policy_effective_date": "具体适用时间以PFRDA原通告为准；当前主URL为二次转载。",
+      "in_report_window": true,
+      "verified": false,
+      "ready_for_report": false,
+      "verification_note": "当前主URL：https://taxguru.in/corporate-law/pfrda-government-entities-pop-services-rs-500-annual-fee.html。页面日期：2026-06-16；政策生效日期：具体适用时间以PFRDA原通告为准；当前主URL为二次转载。；是否属于本期窗口：是；是否已经核验：否（主URL为媒体/二次转载，尚缺官方原始详情页）；是否可以进入正式稿：否，补齐官方原文前仅保留为网站线索。"
     },
     {
       "country": "印度",
@@ -4467,7 +4485,13 @@
       "importance": 3,
       "source": "印度养老基金监管与发展局（PFRDA）",
       "url": "https://taxguru.in/corporate-law/pfrda-revises-audit-framework-nps-points-presence.html",
-      "id": 386
+      "id": 386,
+      "original_pub_date": "2026-06-17",
+      "policy_effective_date": "具体实施时间以PFRDA两份原始通告为准；当前主URL为二次转载。",
+      "in_report_window": true,
+      "verified": false,
+      "ready_for_report": false,
+      "verification_note": "当前主URL：https://taxguru.in/corporate-law/pfrda-revises-audit-framework-nps-points-presence.html。页面日期：2026-06-17；政策生效日期：具体实施时间以PFRDA两份原始通告为准；当前主URL为二次转载。；是否属于本期窗口：是；是否已经核验：否（主URL为媒体/二次转载，尚缺官方原始详情页）；是否可以进入正式稿：否，补齐官方原文前仅保留为网站线索。"
     },
     {
       "country": "韩国",
@@ -4478,7 +4502,13 @@
       "importance": 5,
       "source": "韩国《朝鲜日报》商业版（ChosunBiz）",
       "url": "https://biz.chosun.com/en/en-policy/2026/06/17/UWFUH75L35CANIHSZFPTTIAC7I/",
-      "id": 387
+      "id": 387,
+      "original_pub_date": "2026-06-17",
+      "policy_effective_date": "不适用；为国会论坛和拟议修法意见，尚未形成生效政策。",
+      "in_report_window": true,
+      "verified": false,
+      "ready_for_report": false,
+      "verification_note": "当前主URL：https://biz.chosun.com/en/en-policy/2026/06/17/UWFUH75L35CANIHSZFPTTIAC7I/。页面日期：2026-06-17；政策生效日期：不适用；为国会论坛和拟议修法意见，尚未形成生效政策。；是否属于本期窗口：是；是否已经核验：否（主URL为媒体/二次转载，尚缺官方原始详情页）；是否可以进入正式稿：否，补齐官方原文前仅保留为网站线索。"
     },
     {
       "country": "欧盟",
@@ -4489,7 +4519,13 @@
       "importance": 3,
       "source": "欧洲保险和职业养老金管理局（EIOPA）",
       "url": "https://www.eiopa.europa.eu/publications/eiopa-annual-report-2025_en",
-      "id": 388
+      "id": 388,
+      "original_pub_date": "2026-06-18",
+      "policy_effective_date": "不适用；为监管机构年度报告发布。",
+      "in_report_window": true,
+      "verified": true,
+      "ready_for_report": true,
+      "verification_note": "原始详情页（URL）：https://www.eiopa.europa.eu/publications/eiopa-annual-report-2025_en。原文发布日期：2026-06-18；政策生效日期：不适用；为监管机构年度报告发布。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是。"
     },
     {
       "country": "新西兰",
@@ -4500,7 +4536,13 @@
       "importance": 3,
       "source": "新西兰政府（Beehive.govt.nz）",
       "url": "https://www.beehive.govt.nz/release/995-cent-benefiting-kiwisaver-change",
-      "id": 389
+      "id": 389,
+      "original_pub_date": "2026-06-20",
+      "policy_effective_date": "2026-04-01已生效；本期页面公布实施数据。",
+      "in_report_window": true,
+      "verified": true,
+      "ready_for_report": true,
+      "verification_note": "原始详情页（URL）：https://www.beehive.govt.nz/release/995-cent-benefiting-kiwisaver-change。原文发布日期：2026-06-20；政策生效日期：2026-04-01已生效；本期页面公布实施数据。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是。"
     },
     {
       "country": "澳大利亚",
@@ -4511,7 +4553,13 @@
       "importance": 4,
       "source": "澳大利亚审慎监管局（APRA）",
       "url": "https://www.apra.gov.au/news-and-publications/apra-releases-draft-prudential-standard-cps-510-governance",
-      "id": 390
+      "id": 390,
+      "original_pub_date": "2026-06-16",
+      "policy_effective_date": "尚未生效；拟议审慎标准计划于2028年初生效。",
+      "in_report_window": true,
+      "verified": true,
+      "ready_for_report": true,
+      "verification_note": "原始详情页（URL）：https://www.apra.gov.au/news-and-publications/apra-releases-draft-prudential-standard-cps-510-governance。原文发布日期：2026-06-16；政策生效日期：尚未生效；拟议审慎标准计划于2028年初生效。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是。"
     },
     {
       "country": "澳大利亚",
@@ -4522,7 +4570,13 @@
       "importance": 3,
       "source": "APRA与ASIC",
       "url": "https://www.apra.gov.au/news-and-publications/apra-and-asic-announce-reforms-to-streamline-financial-accountability-regime",
-      "id": 391
+      "id": 391,
+      "original_pub_date": "2026-06-16",
+      "policy_effective_date": "改革措施预计于2026年底前分步实施。",
+      "in_report_window": true,
+      "verified": true,
+      "ready_for_report": true,
+      "verification_note": "原始详情页（URL）：https://www.apra.gov.au/news-and-publications/apra-and-asic-announce-reforms-to-streamline-financial-accountability-regime。原文发布日期：2026-06-16；政策生效日期：改革措施预计于2026年底前分步实施。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是。"
     },
     {
       "country": "澳大利亚",
@@ -4533,7 +4587,13 @@
       "importance": 3,
       "source": "澳大利亚审慎监管局（APRA）",
       "url": "https://www.apra.gov.au/news-and-publications/apra-letter-on-geopolitical-shock-readiness",
-      "id": 392
+      "id": 392,
+      "original_pub_date": "2026-06-17",
+      "policy_effective_date": "2026-06-17发布监管整备要求；不属于单独法规生效。",
+      "in_report_window": true,
+      "verified": true,
+      "ready_for_report": true,
+      "verification_note": "原始详情页（URL）：https://www.apra.gov.au/news-and-publications/apra-letter-on-geopolitical-shock-readiness。原文发布日期：2026-06-17；政策生效日期：2026-06-17发布监管整备要求；不属于单独法规生效。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是。"
     },
     {
       "country": "韩国",
@@ -4544,7 +4604,13 @@
       "importance": 4,
       "source": "韩国联合Infomax（Yonhap Infomax）",
       "url": "https://en.infomaxai.com/news/articleView.html?idxno=125964",
-      "id": 393
+      "id": 393,
+      "original_pub_date": "2026-06-17",
+      "policy_effective_date": "页面称持股目的变更发生于2026-06-13；当前主URL为媒体报道。",
+      "in_report_window": true,
+      "verified": false,
+      "ready_for_report": false,
+      "verification_note": "当前主URL：https://en.infomaxai.com/news/articleView.html?idxno=125964。页面日期：2026-06-17；政策生效日期：页面称持股目的变更发生于2026-06-13；当前主URL为媒体报道。；是否属于本期窗口：是；是否已经核验：否（主URL为媒体/二次转载，尚缺官方原始详情页）；是否可以进入正式稿：否，补齐官方原文前仅保留为网站线索。"
     },
     {
       "country": "欧盟",
@@ -4555,7 +4621,121 @@
       "importance": 3,
       "source": "投资与养老金欧洲（IPE），引述PensionsEurope",
       "url": "https://www.ipe.com/news/pensionseurope-calls-for-single-set-of-esg-data-points-for-all-eu-legislation/10137252.article",
-      "id": 394
+      "id": 394,
+      "original_pub_date": "2026-06-15",
+      "policy_effective_date": "不适用；为行业协会咨询回应，不是欧盟已生效政策。",
+      "in_report_window": true,
+      "verified": false,
+      "ready_for_report": false,
+      "verification_note": "当前主URL：https://www.ipe.com/news/pensionseurope-calls-for-single-set-of-esg-data-points-for-all-eu-legislation/10137252.article。页面日期：2026-06-15；政策生效日期：不适用；为行业协会咨询回应，不是欧盟已生效政策。；是否属于本期窗口：是；是否已经核验：否（主URL为媒体/二次转载，尚缺官方原始详情页）；是否可以进入正式稿：否，补齐官方原文前仅保留为网站线索。"
+    },
+    {
+      "id": 395,
+      "country": "美国",
+      "title": "CalPERS明确2026—2027财年未融资负债一次性预缴安排",
+      "content": "美国加州公共雇员退休系统（CalPERS）于2026年6月22日向所有签约公共机构发出200-030-26号通函，开放2026—2027财年未融资应计负债（UAL）7月一次性预缴窗口。机构在7月预付全年UAL，可获得约3.33%的年度付款折扣；上一年度近79%的签约机构采用预缴。2026年7月1日起，myCalPERS将显示各机构应收额，款项须在7月31日前收到并入账，否则系统自动建立12个月付款计划；单笔电汇超过500万美元还需提前72小时通知。此项安排属于雇主负债缴付和现金流管理，不改变成员待遇、缴费率或基金资产配置政策。 原文引述或具体数据点：“discount your annual payment by approximately 3.33% interest”。原始详情页（URL）：https://www.calpers.ca.gov/employers/policies-and-procedures/circular-letters/200-030-26。原文发布日期：2026-06-22；政策生效日期：2026-07-01至2026-07-31为一次性预缴窗口；逾期由系统自动建立12个月付款计划。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是。",
+      "date": "2026-06-22",
+      "category": "行政管理",
+      "importance": 4,
+      "source": "美国加州公共雇员退休系统（CalPERS）",
+      "url": "https://www.calpers.ca.gov/employers/policies-and-procedures/circular-letters/200-030-26",
+      "extra_url": "",
+      "original_pub_date": "2026-06-22",
+      "policy_effective_date": "2026-07-01至2026-07-31为一次性预缴窗口；逾期由系统自动建立12个月付款计划。",
+      "in_report_window": true,
+      "verified": true,
+      "ready_for_report": true,
+      "verification_note": "原始详情页（URL）：https://www.calpers.ca.gov/employers/policies-and-procedures/circular-letters/200-030-26。原文发布日期：2026-06-22；政策生效日期：2026-07-01至2026-07-31为一次性预缴窗口；逾期由系统自动建立12个月付款计划。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是。"
+    },
+    {
+      "id": 396,
+      "country": "德国",
+      "title": "德国养老保障委员会提出多支柱养老金改革建议",
+      "content": "德国联邦劳动和社会事务部于2026年6月23日公布养老保障委员会报告，委员会提出33项覆盖法定、职业和私人养老的改革建议。报告建议以平均收入者税后净替代率至少70%作为多支柱总体目标；在法定养老保险中引入个人资本账户，新增2%缴费由雇主与雇员各半承担，并拟从2028年起按每年0.5个百分点逐步实施；2031年后将预期寿命增量按2:1分配给就业期与退休期，按当前假设到2041年法定退休年龄约由67岁升至67.5岁。报告还建议取消缴费45年者无折扣提前退休通道。上述均是委员会建议，尚需政府立法和执行决定，不能表述为已生效改革。 原文引述或具体数据点：“Nettoersatzquote von mindestens 70 Prozent nach Steuern”。原始详情页（URL）：https://www.bmas.de/DE/Soziales/Rente-und-Altersvorsorge/Rentenreform-2025/Rentenkommission-2026/rentenkommission-2026.html；补充核验页（URL）：https://www.bmas.de/SharedDocs/Downloads/DE/Soziales/empfehlungen-der-rentenkommission-bmas-juni-2026.pdf?__blob=publicationFile&v=4。原文发布日期：2026-06-23；政策生效日期：尚未生效；委员会建议仍需政府决策、立法和实施安排。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是，但需标注为委员会改革报告/政策建议，不得表述为已落地政策。",
+      "date": "2026-06-23",
+      "category": "政策讨论",
+      "importance": 5,
+      "source": "德国联邦劳动和社会事务部（BMAS）；养老保障委员会",
+      "url": "https://www.bmas.de/DE/Soziales/Rente-und-Altersvorsorge/Rentenreform-2025/Rentenkommission-2026/rentenkommission-2026.html",
+      "extra_url": "https://www.bmas.de/SharedDocs/Downloads/DE/Soziales/empfehlungen-der-rentenkommission-bmas-juni-2026.pdf?__blob=publicationFile&v=4",
+      "original_pub_date": "2026-06-23",
+      "policy_effective_date": "尚未生效；委员会建议仍需政府决策、立法和实施安排。",
+      "in_report_window": true,
+      "verified": true,
+      "ready_for_report": true,
+      "verification_note": "原始详情页（URL）：https://www.bmas.de/DE/Soziales/Rente-und-Altersvorsorge/Rentenreform-2025/Rentenkommission-2026/rentenkommission-2026.html；补充核验页（URL）：https://www.bmas.de/SharedDocs/Downloads/DE/Soziales/empfehlungen-der-rentenkommission-bmas-juni-2026.pdf?__blob=publicationFile&v=4。原文发布日期：2026-06-23；政策生效日期：尚未生效；委员会建议仍需政府决策、立法和实施安排。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是，但需标注为委员会改革报告/政策建议，不得表述为已落地政策。"
+    },
+    {
+      "id": 397,
+      "country": "英国",
+      "title": "英国TPR启动DC计划新法实施准备沟通计划",
+      "content": "英国养老金监管局（TPR）于2026年6月25日启动多年度直接沟通计划，帮助提供DC待遇且预计不获豁免的计划为《2026年养老金计划法》后续要求作准备。首阶段通过邮件和专题网页说明监管预期、良好实践和实务指引，并将随着二级立法及DWP/TPR实施路线图更新。监管局列出的新法方向包括：按规定指标比较默认安排的价值、提供默认退休支取路径、为停缴12个月且不超过1000英镑的小额账户便利自动转移，以及主信托到2030年在主要规模默认安排中至少持有250亿英镑资产。当前本周新动作是监管沟通与准备计划，具体义务仍待二级法规，不能把该博客写成新的即时生效规则。 原文引述或具体数据点：“starting a direct communications programme this week”。原始详情页（URL）：https://www.thepensionsregulator.gov.uk/en/media-hub/blogs/2026-blogs/dc-trustees-time-to-get-ready-for-higher-standards。原文发布日期：2026-06-25；政策生效日期：监管沟通计划于2026-06-25启动；具体法定义务的时点和细节仍待二级法规及实施路线图。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是，但需标注为监管沟通计划/立法实施准备，不得表述为本周新增生效义务。",
+      "date": "2026-06-25",
+      "category": "行政安排",
+      "importance": 4,
+      "source": "英国养老金监管局（The Pensions Regulator，TPR）",
+      "url": "https://www.thepensionsregulator.gov.uk/en/media-hub/blogs/2026-blogs/dc-trustees-time-to-get-ready-for-higher-standards",
+      "extra_url": "",
+      "original_pub_date": "2026-06-25",
+      "policy_effective_date": "监管沟通计划于2026-06-25启动；具体法定义务的时点和细节仍待二级法规及实施路线图。",
+      "in_report_window": true,
+      "verified": true,
+      "ready_for_report": true,
+      "verification_note": "原始详情页（URL）：https://www.thepensionsregulator.gov.uk/en/media-hub/blogs/2026-blogs/dc-trustees-time-to-get-ready-for-higher-standards。原文发布日期：2026-06-25；政策生效日期：监管沟通计划于2026-06-25启动；具体法定义务的时点和细节仍待二级法规及实施路线图。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是，但需标注为监管沟通计划/立法实施准备，不得表述为本周新增生效义务。"
+    },
+    {
+      "id": 398,
+      "country": "日本",
+      "title": "日本公布截至2026年4月底国民年金保费缴纳率",
+      "content": "日本厚生劳动省年金局于2026年6月26日公布截至2026年4月底的国民年金保费月度缴纳率。附件将三年后缴纳率作为最终指标：2023年4月应缴保费的三年后缴纳率为84.9%，对应633万缴纳月数和746万应缴月数，较一年前同口径进展提高0.2个百分点；2024年4月应缴保费的两年后缴纳率为85.7%，较上年同期提高3.0个百分点；2025年4月应缴保费的一年后缴纳率为83.4%。文件同时说明，一年和两年指标属于中途进展，只有三年指标更适合观察最终缴纳状况。本条是行政统计发布，不代表本周调整费率、征缴规则或待遇标准。 原文引述或具体数据点：“３年経過納付率（令和５年４月分保険料）は、84.9％”。原始详情页（URL）：https://www.mhlw.go.jp/stf/houdou/newpage_00232.html；补充核验页（URL）：https://www.mhlw.go.jp/content/12512000/001712201.pdf。原文发布日期：2026-06-26；政策生效日期：不适用；本条为截至2026-04-30的行政统计发布。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是，但需标注为行政统计发布，不得表述为制度改革。",
+      "date": "2026-06-26",
+      "category": "数据发布",
+      "importance": 3,
+      "source": "日本厚生劳动省年金局",
+      "url": "https://www.mhlw.go.jp/stf/houdou/newpage_00232.html",
+      "extra_url": "https://www.mhlw.go.jp/content/12512000/001712201.pdf",
+      "original_pub_date": "2026-06-26",
+      "policy_effective_date": "不适用；本条为截至2026-04-30的行政统计发布。",
+      "in_report_window": true,
+      "verified": true,
+      "ready_for_report": true,
+      "verification_note": "原始详情页（URL）：https://www.mhlw.go.jp/stf/houdou/newpage_00232.html；补充核验页（URL）：https://www.mhlw.go.jp/content/12512000/001712201.pdf。原文发布日期：2026-06-26；政策生效日期：不适用；本条为截至2026-04-30的行政统计发布。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是，但需标注为行政统计发布，不得表述为制度改革。"
+    },
+    {
+      "id": 399,
+      "country": "印度",
+      "title": "印度PFRDA上线AI养老金投诉处理门户",
+      "content": "印度养老金基金监管与发展局（PFRDA）于2026年6月22日正式推出AI驱动的“PFRDA Pension Sahayak”投诉处理门户，取代原中央投诉管理系统（CGMS）。平台面向PFRDA监管的养老金计划订户，将网页、移动端和WhatsApp纳入统一全渠道入口，可用手机号和一次性密码登录，并自动展示同一手机号关联的多个PRAN；通过Bhashini支持22种印度语言及语音提交，提供自动分类、进度跟踪、超时升级和多层级申诉。监管端可实时监测积压与升级趋势、评估处置质量、识别重复运营问题并比较中介机构表现。该动态属于经办和监管数字化升级，不改变NPS、APY或UPS的缴费、投资和给付规则。 原文引述或具体数据点：“supports 22 Indian languages through integration with Bhashini”。原始详情页（URL）：https://www.pfrda.org.in/en/web/pfrda/w/pfrda-launches-ai-powered-pfrda-pension-sahayak-portal-to-transform-pension-grievance-redressal-1；补充核验页（URL）：https://www.pfrda.org.in/documents/33652/0/Billingual+Press+Release+PFRDA+Launches+AI-Powered+PFRDA+Pension+Sahayak.pdf。原文发布日期：2026-06-22（详情页Published on与新闻稿日期一致）；政策生效日期：2026-06-22上线并取代原中央投诉管理系统（CGMS）。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是。",
+      "date": "2026-06-22",
+      "category": "行政管理",
+      "importance": 4,
+      "source": "印度养老金基金监管与发展局（PFRDA）",
+      "url": "https://www.pfrda.org.in/en/web/pfrda/w/pfrda-launches-ai-powered-pfrda-pension-sahayak-portal-to-transform-pension-grievance-redressal-1",
+      "extra_url": "https://www.pfrda.org.in/documents/33652/0/Billingual+Press+Release+PFRDA+Launches+AI-Powered+PFRDA+Pension+Sahayak.pdf",
+      "original_pub_date": "2026-06-22（详情页Published on与新闻稿日期一致）",
+      "policy_effective_date": "2026-06-22上线并取代原中央投诉管理系统（CGMS）。",
+      "in_report_window": true,
+      "verified": true,
+      "ready_for_report": true,
+      "verification_note": "原始详情页（URL）：https://www.pfrda.org.in/en/web/pfrda/w/pfrda-launches-ai-powered-pfrda-pension-sahayak-portal-to-transform-pension-grievance-redressal-1；补充核验页（URL）：https://www.pfrda.org.in/documents/33652/0/Billingual+Press+Release+PFRDA+Launches+AI-Powered+PFRDA+Pension+Sahayak.pdf。原文发布日期：2026-06-22（详情页Published on与新闻稿日期一致）；政策生效日期：2026-06-22上线并取代原中央投诉管理系统（CGMS）。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是。"
+    },
+    {
+      "id": 400,
+      "country": "澳大利亚",
+      "title": "APRA发布2026年3月季度超级年金行业与基金统计",
+      "content": "澳大利亚审慎监管局（APRA）于2026年6月22日发布截至2026年3月31日的超级年金行业、产品和基金级季度统计，并同步提供Excel和CSV原始数据。行业表显示，APRA监管且成员超过6人的RSE共提供827个产品，其中MySuper产品51个；MySuper成员资产为1.1632万亿澳元，占RSE成员资产2.7915万亿澳元的41.7%，MySuper成员账户约1502.72万个，占RSE成员账户约2363.01万个的63.6%。APRA强调季度统计用于观察产品、成员和投资构成，并提醒谨慎从短期数据作结论。本条是监管数据披露和投资结构观察，不代表本周改变超级年金税制、雇主缴费时点、绩效测试或资产配置规则。 原文引述或具体数据点：“Total member assets in MySuper products: A$1,163.2 billion”。原始详情页（URL）：https://www.apra.gov.au/news-and-publications/apra-publishes-march-2026-edition-quarterly-superannuation-industry；补充核验页（URL）：https://www.apra.gov.au/news-and-publications/quarterly-superannuation-industry-publication；https://www.apra.gov.au/system/files/2026-06/Quarterly%20Superannuation%20Industry%20Publication%20-%20March%202026.xlsx。原文发布日期：2026-06-22；政策生效日期：不适用；统计基准日为2026-03-31。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是，但需标注为监管统计/投资结构披露，不得表述为税制或缴费规则改革。",
+      "date": "2026-06-22",
+      "category": "数据发布",
+      "importance": 4,
+      "source": "澳大利亚审慎监管局（APRA）",
+      "url": "https://www.apra.gov.au/news-and-publications/apra-publishes-march-2026-edition-quarterly-superannuation-industry",
+      "extra_url": "https://www.apra.gov.au/news-and-publications/quarterly-superannuation-industry-publication",
+      "original_pub_date": "2026-06-22",
+      "policy_effective_date": "不适用；统计基准日为2026-03-31。",
+      "in_report_window": true,
+      "verified": true,
+      "ready_for_report": true,
+      "verification_note": "原始详情页（URL）：https://www.apra.gov.au/news-and-publications/apra-publishes-march-2026-edition-quarterly-superannuation-industry；补充核验页（URL）：https://www.apra.gov.au/news-and-publications/quarterly-superannuation-industry-publication；https://www.apra.gov.au/system/files/2026-06/Quarterly%20Superannuation%20Industry%20Publication%20-%20March%202026.xlsx。原文发布日期：2026-06-22；政策生效日期：不适用；统计基准日为2026-03-31。；是否属于本期窗口：是；是否已经核验：是；是否可以进入正式稿：是，但需标注为监管统计/投资结构披露，不得表述为税制或缴费规则改革。"
     }
   ]
 }
