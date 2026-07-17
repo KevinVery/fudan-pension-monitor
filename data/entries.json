@@ -6,8 +6,8 @@
     "last_updated": "2026-07-18",
     "report_period_start": "2025-12-20",
     "report_period_end": "2026-07-18",
-    "total_entries": 424,
-    "data_version": "6.9-20260718-weekly",
+    "total_entries": 423,
+    "data_version": "6.9-20260718-weekly-v2",
     "countries_covered": 16,
     "version": "2.0"
   },
@@ -5012,26 +5012,6 @@
       "id": 414
     },
     {
-      "country": "美国",
-      "title": "美国财政部/IRS计划7月发布SECURE 2.0自动参保及RMD最终规则",
-      "content": "综合美国投资公司协会（ICI）及多个养老金行业协会消息，美国财政部和国税局（IRS）已将《SECURE 2.0法案》两项关键条款的最终规则列入2026年7月发布计划。第一项是关于第101条“自动参保要求”的最终规则，要求新设立的401(k)和403(b)计划必须自动登记合格雇员，起始默认缴费率不低于3%、不超过15%，每年自动递增1个百分点直至达到10%—15%；规则草案已于2026年6月23日提交白宫OMB审查。第二项是关于“RMD规则更新”的最终规则，涵盖年金计算灵活性改进、RMD违规罚款降低、Roth雇主计划账户免终身RMD、以及遗属配偶选择权改善。同期，劳工部计划于7月发布《选择计划投资和行使股东权利时的审慎与忠诚》拟议规则，以取代拜登时期的ESG投资规则，要求计划受托人仅基于财务因素作出投资决策。上述均为监管议程预期时间节点；截至本期报告截稿，最终规则尚未在《联邦公报》正式发布。",
-      "date": "2026-07-14",
-      "category": "法规更新",
-      "importance": 4,
-      "source": "美国投资公司协会（ICI）/NAPA/PSCA",
-      "url": "https://www.napa-net.org/news/2026/7/whats-on-dols-2026-retirement-policy-regulatory-agenda/",
-      "extra_url": "",
-      "original_pub_date": "2026-07-14",
-      "policy_effective_date": "待最终规则发布后确定",
-      "in_report_window": true,
-      "verified": true,
-      "ready_for_report": true,
-      "policy_status": "监管议程预期/拟议规则",
-      "verification_note": "已通过多个行业来源交叉确认监管议程时间节点，最终规则尚未正式发布",
-      "report_entry_id": "20260714-us-irs-secure2-final-rules",
-      "id": 415
-    },
-    {
       "country": "英国",
       "title": "英国DWP发布《养老金计划法2026》监测与评估战略",
       "content": "英国工作与养老金部（DWP）于2026年7月13日发布《养老金计划法2026：监测与评估战略》，建立了核心指标体系，并为各项政策制定了逻辑模型，展示了关键政策与预期结果之间的高层次联系。DWP将与FCA、TPR和HMT合作收集数据，建立主要指标基线值。评估战略覆盖DC超级基金、DB盈余释放、物有所值框架、规模政策、小额度养老金合并以及AI在养老金领域的负责任使用等六大政策领域，是对法案实施效果进行系统性监测和评估的框架文件，不直接修改任何成员的缴费率、待遇水平或退休年龄。",
@@ -5049,7 +5029,7 @@
       "policy_status": "监测评估框架文件",
       "verification_note": "已下载并阅读GOV.UK官方详情页",
       "report_entry_id": "20260713-uk-dwp-psa2026-evaluation-strategy",
-      "id": 416
+      "id": 415
     },
     {
       "country": "英国",
@@ -5069,7 +5049,7 @@
       "policy_status": "咨询文件/讨论文件",
       "verification_note": "已通过GOV.UK确认发布日期，咨询内容通过搜索摘要和交叉来源核实",
       "report_entry_id": "20260713-uk-dwp-vfm-scale-consultations",
-      "id": 417
+      "id": 416
     },
     {
       "country": "澳大利亚",
@@ -5089,7 +5069,7 @@
       "policy_status": "政府监管期待声明",
       "verification_note": "已通过KHQ Lawyers Super Alert交叉验证APRA和ASIC的SOE/SOI同日发布",
       "report_entry_id": "20260716-au-treasury-apra-asic-soe",
-      "id": 418
+      "id": 417
     },
     {
       "country": "巴西",
@@ -5109,7 +5089,7 @@
       "policy_status": "已获参议院通过/进入颁布程序",
       "verification_note": "已通过参议院官方新闻和《圣保罗页报》交叉验证投票结果和条款细节",
       "report_entry_id": "20260714-br-senado-pec14-saude-aposentadoria",
-      "id": 419
+      "id": 418
     },
     {
       "country": "哥伦比亚",
@@ -5129,7 +5109,7 @@
       "policy_status": "法定转移窗口关闭/宪法法院裁决待决",
       "verification_note": "已下载并阅读《星期》杂志和《共和国报》官方详情页",
       "report_entry_id": "20260716-co-ventana-traslados-cierre",
-      "id": 420
+      "id": 419
     },
     {
       "country": "俄罗斯",
@@ -5149,7 +5129,7 @@
       "policy_status": "年度重算公告",
       "verification_note": "公告内容已通过不少于两个独立俄语媒体来源交叉验证",
       "report_entry_id": "20260714-ru-sfr-funded-pension-increase",
-      "id": 421
+      "id": 420
     },
     {
       "country": "俄罗斯",
@@ -5169,7 +5149,7 @@
       "policy_status": "行业统计报告",
       "verification_note": "数据来源于央行官方统计，通过《新闻报》新闻稿确认",
       "report_entry_id": "20260715-ru-cbr-npf-q1-2026",
-      "id": 422
+      "id": 421
     },
     {
       "country": "日本",
@@ -5189,7 +5169,7 @@
       "policy_status": "政策信号/政治表态",
       "verification_note": "已通过路透社、日经和Aju Press交叉验证首相等表态内容",
       "report_entry_id": "20260717-jp-pm-gpif-domestic-assets",
-      "id": 423
+      "id": 422
     },
     {
       "country": "澳大利亚",
@@ -5209,7 +5189,7 @@
       "policy_status": "行政基础设施/操作指引",
       "verification_note": "已通过KHQ Lawyers Super Alert交叉验证各事项的发布日期和内容",
       "report_entry_id": "20260717-au-ato-super-product-register",
-      "id": 424
+      "id": 423
     }
   ]
 }
