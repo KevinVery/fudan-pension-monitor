@@ -3,11 +3,11 @@
     "site_name": "全球养老金政策动态追踪",
     "site_subtitle": "Global Pension Policy Monitor",
     "description": "跟踪全球16个主要经济体的养老金政策、改革和投资动态，提供权威、及时的政策情报。",
-    "last_updated": "2026-07-18",
+    "last_updated": "2026-07-24",
     "report_period_start": "2025-12-20",
-    "report_period_end": "2026-07-18",
-    "total_entries": 423,
-    "data_version": "6.9-20260718-weekly-v2",
+    "report_period_end": "2026-07-25",
+    "total_entries": 437,
+    "data_version": "7.0-20260725-weekly",
     "countries_covered": 16,
     "version": "2.0"
   },
@@ -5190,6 +5190,160 @@
       "verification_note": "已通过KHQ Lawyers Super Alert交叉验证各事项的发布日期和内容",
       "report_entry_id": "20260717-au-ato-super-product-register",
       "id": 423
+    },
+    {
+      "country": "中国",
+      "title": "人社部发布企业年金个人账户转移接续规程，2027年起实现线上通办",
+      "content": "人力资源社会保障部办公厅7月24日发布《企业年金个人账户转移接续规程（暂行）》，自2027年1月1日起实施。职工可通过国家社会保险公共服务平台、全国人社政务服务平台、电子社保卡、掌上12333App等全国统一线上服务渠道申请办理企业年金个人账户的转移接续，并可实时查询办理进度。个人缴费、已归属个人的单位缴费、已转入的职业年金及相应投资收益均可随账户转移。规程针对新就业单位有无企业年金等不同情形分类规定了账户归集路径，正在领取待遇的退休人员可申请将其他账户资金合并至领取账户。此举打通了多层次社保体系的制度衔接堵点，将有效保障劳动者流动就业时的养老权益。",
+      "date": "2026-07-24",
+      "category": "政策调整",
+      "importance": 5,
+      "source": "新华网（新华社）",
+      "url": "https://www.news.cn/20260724/2cb2462e97994465bfbaccb5aaa38795/c.html",
+      "id": 424
+    },
+    {
+      "country": "中国",
+      "title": "国务院常务会议研究优化社会保障体系，增强社保制度可持续发展能力",
+      "content": "国务院总理7月20日主持召开国务院常务会议，研究优化社会保障体系工作。会议提出要提高社会保障体系的整体性协同性，优化相关制度安排，加强衔接联动；高效配置各种资源，增强社保制度可持续发展能力；积极探索灵活就业人员社保新模式；推进失能照护等服务资源共享；积极运用先进技术提高社保经办服务便利度。截至2026年3月底，中国基本养老保险参保人数达10.73亿人，三项社保基金累计结余10.8万亿元，全国社保卡持卡人数达13.9亿人，电子社保卡11.07亿人。专家解读认为，此次会议信号明确，社保体系正从广覆盖向全覆盖转型，系统集成与协同高效是下一阶段改革的主题词。",
+      "date": "2026-07-20",
+      "category": "政策调整",
+      "importance": 5,
+      "source": "新华网（新华社）",
+      "url": "https://www.news.cn/politics/20260720/8e62435997414f83b464517dd5259b88/c.html",
+      "id": 425
+    },
+    {
+      "country": "中国",
+      "title": "人社部：养老保险转移接续全国通办，将指导各地提高基础养老金标准",
+      "content": "人力资源社会保障部7月22日发布2026年上半年人社事业发展数据并部署下半年重点工作。企业职工基本养老保险关系转移接续已实现线上线下全国通办，全国社保卡持卡人数达13.9亿人，电子社保卡覆盖11.14亿人，全国统一社保公共服务平台累计开通104项跨省通办服务。人社部明确将推进城乡居民养老保险全国基础养老金最低标准调整，指导各地结合实际提高本地基础养老金标准，并适当向高龄人员倾斜。此外将全面取消灵活就业人员在就业地参保的户籍限制，推进基本养老保险基金委托投资。",
+      "date": "2026-07-22",
+      "category": "政策调整",
+      "importance": 5,
+      "source": "中国青年网/人力资源社会保障部",
+      "url": "https://news.youth.cn/jsxw/202607/t20260722_16777419.htm",
+      "id": 426
+    },
+    {
+      "country": "美国",
+      "title": "美国两党议员提出社会保障2100法案，拟取消缴费工资上限、扩大待遇",
+      "content": "7月22日，众议员约翰·拉尔森（民主党）和参议员理查德·布卢门撒尔联合提出《社会保障2100法案》（Social Security 2100 Act）。核心条款包括：取消社会保障工资税征收上限（2026年为184,500美元），使高收入者缴纳更多；对年收入超过40万美元的纳税人征收投资所得税；改进生活成本调整公式以更好反映老年人实际支出；建立更强的最低待遇标准。法案还包含阻止削减社会保障署人员编制和关闭地方办事处的条款。参院共同提案人包括斯洛特金、卢汉、怀特豪斯和达克沃斯等议员。目前该法案尚未进入委员会审议阶段。",
+      "date": "2026-07-22",
+      "category": "法案引入",
+      "importance": 5,
+      "source": "众议员拉尔森/布卢门撒尔联合新闻稿",
+      "url": "https://larson.house.gov/media-center/press-releases/larson-blumenthal-introduce-bill-strengthening-social-security",
+      "id": 427
+    },
+    {
+      "country": "美国",
+      "title": "美国两党参议员提出5500表格申报简化法案，降低中小企业合规成本",
+      "content": "7月20日，参议员吉姆·班克斯（共和党）和科里·布克（民主党）提出《5500表格申报简化法案》（Form 5500 Filing Simplification Act）。法案针对雇主退休计划的年度合规申报提出三项核心改革：建立统一的法定申报截止日期；允许在法定表格和报告上使用电子签名；指示财政部、劳工部和养老金待遇担保公司协同现代化申报规则。法案已获得美国退休协会、ERISA行业委员会、美国商会和美国福利委员会等行业组织背书。这是继SECURE 2.0之后美国在退休计划行政管理简化方面的最新两党立法尝试。",
+      "date": "2026-07-20",
+      "category": "法案引入",
+      "importance": 4,
+      "source": "PlanAdviser",
+      "url": "https://www.planadviser.com/proposed-senate-bill-simplifies-form-5500-filing/",
+      "id": 428
+    },
+    {
+      "country": "巴西",
+      "title": "巴西联邦政府颁布临时措施拨款5.47亿雷亚尔用于INSS受益人退款",
+      "content": "巴西联邦政府7月21日颁布第1.378号临时措施（Medida Provisoria n. 1.378/2026），在联邦官方公报发布并即时生效。该措施为社会保障部开设了5.47亿雷亚尔（约合1.08亿美元）的特别预算拨款，用于向国家社会保险局（INSS）的退休人员和养老金领取者退还不当扣款，这些扣款源自部分协会实体未经充分授权即从受益人养老金中扣除的会员费。截至2026年6月，已有超过32亿雷亚尔退还给了470万名参保人，仍有约65.6万人需要正式确认加入退款协议才能收到款项。该临时措施需经国会审议转化为正式法律。",
+      "date": "2026-07-21",
+      "category": "行政法规",
+      "importance": 4,
+      "source": "巴西邮报（Correio Braziliense）",
+      "url": "https://www.correiobraziliense.com.br/economia/2026/07/7465310-governo-abre-credito-extraordinario-de-rs-547-milhoes-para-ressarcir-aposentados.html",
+      "id": 429
+    },
+    {
+      "country": "韩国",
+      "title": "韩国保健福祉部宣布青年国民年金首期保费政府代缴政策",
+      "content": "韩国保健福祉部7月22日发布2026年下半年政策计划，宣布自2027年1月1日起，政府将对年满18周岁、无国民年金缴费记录的青年代缴首月保费（约42,000韩元，约合32美元），适用年龄范围为18至26岁。该政策旨在消除父母机遇导致的年金不平等——截至2025年12月，首尔江南三区18岁人口国民年金参保率为10.6%，是全国平均水平3.7%的近三倍。此外同批政策计划还包括对因虐待儿童被定罪的父母剥夺养老金积分、对服役期间犯罪者取消相关积分等条款，目标在年内完成国民年金法修订并于2027年实施。",
+      "date": "2026-07-22",
+      "category": "政策调整",
+      "importance": 5,
+      "source": "京乡新闻英文版（The Kyunghyang Shinmun）",
+      "url": "https://www.khan.co.kr/en/article/202607221502027",
+      "id": 430
+    },
+    {
+      "country": "韩国",
+      "title": "韩国国会年金改革特别委员会恢复运作，基础年金改革和多层次体系成议题",
+      "content": "韩国国会在7月21日的协商中达成一致，自2026年3月以来一直处于休眠状态的国会年金改革特别委员会将于8月恢复正式全体会议。委员会的核心议程包括：基础年金制度重构——从目前的收入下游70%老年人每人每月约33万韩元的单一模式，转向以标准中位收入的一定比例为基准、实行下厚上薄的分层给付结构；构建公共养老金与个人养老金、退休年金联动的多层次养老保障体系。韩国国民年金支出在2026年第一季度同比增长12.3%至13.48万亿韩元，领取人数增长7%至777万人，而缴费人数减少1.8%至2,138万人，财政压力持续加大。",
+      "date": "2026-07-21",
+      "category": "制度改革",
+      "importance": 4,
+      "source": "亚洲今日（Asia Today）",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260721010007544",
+      "id": 431
+    },
+    {
+      "country": "中国台湾",
+      "title": "台湾劳动基金运用局向五家全球资管机构授予30亿美元气候转型委托",
+      "content": "台湾劳动基金运用局（BLF）7月21日宣布，将一项总值30亿美元（约43亿澳元）的全球气候转型委托授予五家国际资产管理机构：Northern Trust Asset Management Australia、Amundi Asset Management、BNP Paribas Asset Management Europe、Geode Capital Management和State Street Global Advisors Singapore。每家机构各获6亿美元，资金分别来自劳工退休基金、劳工保险基金和国民年金保险基金。委托期限5年，采用被动跟踪策略，基准为富时全球核心基础设施（除中国）TPI气候转型指数。这是BLF首次大规模采用气候转型主题的基础设施被动投资策略。",
+      "date": "2026-07-21",
+      "category": "投资动态",
+      "importance": 4,
+      "source": "FS Sustainability",
+      "url": "https://www.fssustainability.com.au/northern-trust-am-australia-shares-in-43bn-climate-transition-mandate",
+      "id": 432
+    },
+    {
+      "country": "加拿大",
+      "title": "CPP Investments通过债券发行计划扩大国际投资者基础",
+      "content": "加拿大养老金计划投资委员会（CPP Investments）7月21日披露，正在通过其约1,000亿加元（约696.8亿美元）的债券发行计划积极吸引国际大型投资者。该计划拥有超过1,200家投资者，目前存续发行规模约980亿加元，2026年迄今已发行145亿加元，全年目标约200亿加元。在2026年的地域分布中，澳大利亚市场发行50亿加元居首，美国34亿加元，加拿大29亿加元。CPP Investments总基金管理主管曼鲁普·朱蒂表示重点正更多转向国际。债券计划规模预计将随CPP整体资产增长，维持在总资产11%-12%的水平。",
+      "date": "2026-07-21",
+      "category": "投资动态",
+      "importance": 4,
+      "source": "Investing.com / 路透社（Reuters）",
+      "url": "https://www.investing.com/news/economy-news/canadas-cpp-taps-foreign-investors-to-grow-c100-billion-bond-program-4803646",
+      "id": 433
+    },
+    {
+      "country": "加拿大",
+      "title": "CPP Investments联手Brookfield以52亿美元收购LXP Industrial Trust",
+      "content": "加拿大养老金计划投资委员会（CPP Investments）7月20日与布鲁克菲尔德资产管理公司达成最终合并协议，以约52亿美元（含净债务和优先股）的全现金交易收购纽约证券交易所上市的物流地产信托LXP Industrial Trust。收购价为每股61.20美元，较30天成交量加权平均价溢价12.3%、较90天平均价溢价19.8%。LXP在美国阳光地带和中西部拥有108处物流仓库物业，总面积约5,300万平方英尺（约492万平方米）。交易设有40天招揽期（至8月28日），预计2026年第四季度完成交割。这是CPP Investments本月继数据中心AI基础设施投资之后在实物资产领域的又一重大交易。",
+      "date": "2026-07-20",
+      "category": "投资动态",
+      "importance": 5,
+      "source": "LXP Industrial Trust官方公告/Yahoo Finance",
+      "url": "https://ir.lxp.com/News-1/news/news-details/2026/Brookfield-and-CPP-Investments-to-Acquire-LXP-Industrial-Trust-in-5-2-Billion-All-Cash-Transaction/default.aspx",
+      "id": 434
+    },
+    {
+      "country": "日本",
+      "title": "GPIF完成首笔直接投资私募股权基金，另类资产配置开启战略转型",
+      "content": "日本政府养老金投资基金（GPIF）——全球资产规模最大的养老金基金，管理资产约293.6万亿日元（约1.81万亿美元）——7月21日披露已完成其历史上首笔直接私募股权投资。GPIF向日本私募股权公司Advantage Partners管理的一只10年期国内导向基金投资约200亿日元（约1.23亿美元）。此前GPIF的另类投资均通过全权委托协议进行，此次直接投资标志着GPIF在另类资产配置上的战略性升级。GPIF目前的另类资产配置比例仅占总资产的1.7%（约5.2万亿日元），远低于现有政策允许的5%上限。日本政府近期已明确表示将推动GPIF提高另类投资比例。",
+      "date": "2026-07-21",
+      "category": "投资动态",
+      "importance": 5,
+      "source": "Asia Asset Management",
+      "url": "https://www.asiaasset.com/pension-funds/japans-gpif-makes-first-direct-private-equity-investment/",
+      "id": 435
+    },
+    {
+      "country": "韩国",
+      "title": "国民年金公团重启国内股票再平衡，理事长澄清投资不以托市为目标",
+      "content": "韩国国民年金公团（NPS）7月经基金管理委员会5月会议决策后重启国内股票投资组合再平衡操作。NPS在5月将国内股票目标配置比例从14.9%上调至20.8%（锁定至2027年），并将战略资产配置容忍区间从3个百分点扩大至6个百分点。市场此前担忧再平衡可能引发大规模抛售，但7月首三个交易日净卖出仅约2,158亿韩元。NPS理事长金成柱7月22日发表声明，明确NPS投资策略不以支撑或维持股市为目的，强调基金的使命是通过国内外多资产长期分散投资创造可持续收益。Q2 2026年NPS国内股票投资收益达189.6万亿韩元，半导体板块占比55.7%。",
+      "date": "2026-07-22",
+      "category": "投资动态",
+      "importance": 5,
+      "source": "韩国联合新闻TV（Yonhap News TV）",
+      "url": "https://m.yonhapnewstv.co.kr/news/AKR20260723085508hP5",
+      "id": 436
+    },
+    {
+      "country": "法国",
+      "title": "法国养老储备基金向气候转型股票指数投资1亿欧元",
+      "content": "法国养老储备基金（FRR）7月24日宣布向法国巴黎银行FRR欧元区高级转型股票指数（BNP Paribas FRR Eurozone Advanced Transition Equity Index）投资1亿欧元。该指数覆盖欧元区大中盘股票，旨在评估企业在气候转型方面的融资、实施和完成能力，不仅衡量当前碳排放强度，还纳入隐含升温幅度、欧盟分类法对齐的绿色投资占比以及机构投资者对企业转型战略可信度的共识评估等维度。此项投资属于FRR 2024-2028年战略可持续性计划的一部分，聚焦气候、生物多样性和社会三大优先领域。FRR管理资产约207亿欧元，是联合国支持的净零资产所有者联盟成员。",
+      "date": "2026-07-24",
+      "category": "投资动态",
+      "importance": 4,
+      "source": "European Pensions",
+      "url": "https://www.europeanpensions.net/ep/News-in-brief-24-July-2026.php",
+      "id": 437
     }
   ]
 }
